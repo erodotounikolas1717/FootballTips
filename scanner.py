@@ -835,32 +835,16 @@ def clean_time(value):
 
 
 def format_pick(item):
-
     home = item["home"]
     away = item["away"]
-
     time = clean_time(item["time"])
-
     market = item["market"]
 
-    odds = item["odds"]
-
-    movement = item.get("movement")
-
-    line = (
-        f"⚽ <b>{home} - {away}</b>\n"
-        f"🕐 {time}\n"
-        f"🎯 <b>{market}</b>\n"
-        f"💰 Odds: {odds:.2f}"
+    return (
+        f"⚽ <b>{home} 🆚 {away}</b>\n"
+        f"🕘 {time}\n"
+        f"🎯 <b>{market}</b>"
     )
-
-    if movement == "SHORTENING":
-        line += "\n📉 Odds: Shortening"
-
-    elif movement == "DRIFTING":
-        line += "\n📈 Odds: Drifting"
-
-    return line
 
 
 # ------------------------------------------------------------
