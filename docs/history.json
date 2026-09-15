@@ -96,7 +96,9 @@
     "away": "Willem II Tilburg",
     "market": "OVER 2.5",
     "odds": 1.204,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "602323|Over 2.5 + GG|2026-09-15T17:00:00+00:00",
