@@ -1,0 +1,33 @@
+name: Update Football Tips History
+
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-tips-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Update history
+        env:
+          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
+        run: python update_history.py
+      - name: Commit history
+        run: |
+          git config user.name "football-tips-bot"
+          git config user.email "actions@github.com"
+          git add docs/history.json
+          git diff --cached --quiet || git commit -m "Update tips history"
+          git push

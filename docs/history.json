@@ -1,0 +1,112 @@
+[
+  {
+    "key": "215950|GG|2026-09-15T23:00:00+00:00",
+    "event_id": 215950,
+    "date": "02:00",
+    "kickoff": "2026-09-15T23:00:00+00:00",
+    "home": "Indy Eleven",
+    "away": "Brooklyn FC",
+    "market": "GG",
+    "odds": 1.538,
+    "status": "PENDING"
+  },
+  {
+    "key": "600983|OVER 2.5|2026-09-15T19:00:00+00:00",
+    "event_id": 600983,
+    "date": "22:00",
+    "kickoff": "2026-09-15T19:00:00+00:00",
+    "home": "Fiorentina",
+    "away": "Pisa",
+    "market": "OVER 2.5",
+    "odds": 1.542,
+    "status": "PENDING"
+  },
+  {
+    "key": "601549|OVER 2.5|2026-09-15T19:00:00+00:00",
+    "event_id": 601549,
+    "date": "22:00",
+    "kickoff": "2026-09-15T19:00:00+00:00",
+    "home": "Reading",
+    "away": "Brentford",
+    "market": "OVER 2.5",
+    "odds": 1.369,
+    "status": "PENDING"
+  },
+  {
+    "key": "600959|OVER 2.5|2026-09-15T18:45:00+00:00",
+    "event_id": 600959,
+    "date": "21:45",
+    "kickoff": "2026-09-15T18:45:00+00:00",
+    "home": "Hibernian",
+    "away": "Kilmarnock",
+    "market": "OVER 2.5",
+    "odds": 1.498,
+    "status": "PENDING"
+  },
+  {
+    "key": "588189|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
+    "event_id": 588189,
+    "date": "21:45",
+    "kickoff": "2026-09-15T18:45:00+00:00",
+    "home": "Southend United",
+    "away": "Tamworth",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "588187|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
+    "event_id": 588187,
+    "date": "21:45",
+    "kickoff": "2026-09-15T18:45:00+00:00",
+    "home": "Harrogate Town",
+    "away": "AFC Fylde",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "588188|GG|2026-09-15T18:45:00+00:00",
+    "event_id": 588188,
+    "date": "21:45",
+    "kickoff": "2026-09-15T18:45:00+00:00",
+    "home": "Solihull Moors",
+    "away": "Barrow AFC",
+    "market": "GG",
+    "odds": 1.571,
+    "status": "PENDING"
+  },
+  {
+    "key": "588192|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
+    "event_id": 588192,
+    "date": "21:45",
+    "kickoff": "2026-09-15T18:45:00+00:00",
+    "home": "Worthing FC",
+    "away": "Hornchurch",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "210825|OVER 2.5|2026-09-15T18:00:00+00:00",
+    "event_id": 210825,
+    "date": "21:00",
+    "kickoff": "2026-09-15T18:00:00+00:00",
+    "home": "AFC Ajax",
+    "away": "Willem II Tilburg",
+    "market": "OVER 2.5",
+    "odds": 1.204,
+    "status": "PENDING"
+  },
+  {
+    "key": "602323|Over 2.5 + GG|2026-09-15T17:00:00+00:00",
+    "event_id": 602323,
+    "date": "20:00",
+    "kickoff": "2026-09-15T17:00:00+00:00",
+    "home": "Grasshopper Club Zürich",
+    "away": "FC Sion",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  }
+]

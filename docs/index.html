@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Football Tips — History</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+body{margin:0;background:#0b0f14;color:#eef2f7}.wrap{max-width:1100px;margin:auto;padding:24px 16px 50px}
+h1{margin:0 0 6px;font-size:30px}.sub{color:#9aa5b1;margin-bottom:22px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}.card{background:#131a22;border:1px solid #26313d;border-radius:14px;padding:14px}.label{font-size:12px;color:#9aa5b1}.value{font-size:24px;font-weight:700;margin-top:4px}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}select,input{background:#111820;color:#fff;border:1px solid #2b3744;border-radius:10px;padding:10px 12px}
+table{width:100%;border-collapse:collapse;background:#10161d;border:1px solid #26313d;border-radius:14px;overflow:hidden}th,td{padding:11px 9px;border-bottom:1px solid #222c36;text-align:left;font-size:14px}th{color:#9aa5b1;font-size:12px;text-transform:uppercase}tr:last-child td{border-bottom:0}.win{color:#5ee28a;font-weight:700}.loss{color:#ff6b6b;font-weight:700}.pending{color:#f6c85f;font-weight:700}
+@media(max-width:800px){.cards{grid-template-columns:repeat(2,1fr)}th:nth-child(4),td:nth-child(4),th:nth-child(5),td:nth-child(5){display:none}}
+</style>
+</head>
+<body><div class="wrap">
+<h1>⚽ Football Tips — History</h1><div class="sub">Daily selections and settled results</div>
+<div class="cards"><div class="card"><div class="label">Picks</div><div id="picks" class="value">—</div></div><div class="card"><div class="label">Wins</div><div id="wins" class="value">—</div></div><div class="card"><div class="label">Losses</div><div id="losses" class="value">—</div></div><div class="card"><div class="label">Win rate</div><div id="rate" class="value">—</div></div></div>
+<div class="controls"><input id="search" placeholder="Search team..."><select id="market"><option value="">All markets</option><option>OVER 2.5</option><option>OVER 3.5</option><option>GG</option><option>Over 2.5 + GG</option></select><select id="status"><option value="">All status</option><option>PENDING</option><option>WIN</option><option>LOSS</option></select></div>
+<table><thead><tr><th>Date</th><th>Match</th><th>Pick</th><th>Odds</th><th>Status</th></tr></thead><tbody id="body"><tr><td colspan="5">Loading…</td></tr></tbody></table>
+</div>
+<script>
+let all=[];
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+async function load(){try{const r=await fetch('./history.json?'+Date.now());all=await r.json();render()}catch(e){document.getElementById('body').innerHTML='<tr><td colspan="5">History is not available yet.</td></tr>'}}
+function render(){const q=document.getElementById('search').value.toLowerCase();const m=document.getElementById('market').value;const s=document.getElementById('status').value;const rows=all.filter(x=>(!q||(`${x.home} ${x.away}`).toLowerCase().includes(q))&&(!m||x.market===m)&&(!s||x.status===s));const wins=all.filter(x=>x.status==='WIN').length,losses=all.filter(x=>x.status==='LOSS').length,settled=wins+losses;document.getElementById('picks').textContent=all.length;document.getElementById('wins').textContent=wins;document.getElementById('losses').textContent=losses;document.getElementById('rate').textContent=settled?((wins/settled)*100).toFixed(1)+'%':'—';document.getElementById('body').innerHTML=rows.length?rows.map(x=>`<tr><td>${esc(x.date)}</td><td>${esc(x.home)} 🆚 ${esc(x.away)}</td><td>${esc(x.market)}</td><td>${x.odds??'—'}</td><td class="${String(x.status).toLowerCase()}">${esc(x.status)}</td></tr>`).join(''):'<tr><td colspan="5">No results</td></tr>'}
+['search','market','status'].forEach(id=>document.getElementById(id).addEventListener('input',render));load();setInterval(load,300000);
+</script>
+</body></html>

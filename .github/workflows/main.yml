@@ -3,27 +3,38 @@ name: Football Tips Scanner
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'
-      timezone: 'Europe/Nicosia'
-    - cron: '0 17 * * *'
-      timezone: 'Europe/Nicosia'
+      - cron: '0 9 * * *'
+        timezone: 'Europe/Nicosia'
+      - cron: '0 17 * * *'
+        timezone: 'Europe/Nicosia'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-tips-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout FootballTips
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@v6
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.12'
-
-      - name: Run Football Tips Scanner
+      - name: Run scanner
         env:
           BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '1560838491'
         run: python scanner.py
+      - name: Commit history
+        run: |
+          git config user.name "football-tips-bot"
+          git config user.email "actions@github.com"
+          git add docs/history.json
+          git diff --cached --quiet || git commit -m "Add new tips to history"
+          git push
