@@ -107,6 +107,8 @@
     "away": "FC Sion",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 5.0
   }
 ]
