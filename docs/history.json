@@ -19,7 +19,9 @@
     "away": "Pisa",
     "market": "OVER 2.5",
     "odds": 1.542,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "601549|OVER 2.5|2026-09-15T19:00:00+00:00",
@@ -30,7 +32,9 @@
     "away": "Brentford",
     "market": "OVER 2.5",
     "odds": 1.369,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "600959|OVER 2.5|2026-09-15T18:45:00+00:00",
@@ -41,7 +45,9 @@
     "away": "Kilmarnock",
     "market": "OVER 2.5",
     "odds": 1.498,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "588189|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
@@ -52,7 +58,9 @@
     "away": "Tamworth",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "588187|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
@@ -63,7 +71,9 @@
     "away": "AFC Fylde",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "588188|GG|2026-09-15T18:45:00+00:00",
@@ -74,7 +84,9 @@
     "away": "Barrow AFC",
     "market": "GG",
     "odds": 1.571,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "588192|Over 2.5 + GG|2026-09-15T18:45:00+00:00",
@@ -85,7 +97,9 @@
     "away": "Hornchurch",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "210825|OVER 2.5|2026-09-15T18:00:00+00:00",
