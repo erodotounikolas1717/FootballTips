@@ -692,10 +692,25 @@ def main():
             print(f"⚠️ Error στο {home} - {away}: {e}")
     picks = select_picks(results)
     parts = ["🔥 <b>FOOTBALL TIPS</b>", "📅 Σημερινές επιλογές — ώρα Κύπρου", ""]
-    if not picks:
-        parts.append("❌ Σήμερα δεν βρέθηκαν επιλογές που να περνούν τα φίλτρα.")
-    else:
-        for item in picks:
+
+if not picks:
+    parts.append("❌ Σήμερα δεν βρέθηκαν επιλογές που να περνούν τα φίλτρα.")
+else:
+    normal_picks = [item for item in picks if item.get("market") != "Over 2.5 + GG"]
+    builder_picks = [item for item in picks if item.get("market") == "Over 2.5 + GG"]
+
+    for item in normal_picks:
+        parts += [format_pick(item), ""]
+
+    if builder_picks:
+        parts += [
+            "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+            "🔥 <b>BET BUILDER</b>",
+            "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+            ""
+        ]
+
+        for item in builder_picks:
             parts += [format_pick(item), ""]
     message = "\n".join(parts).rstrip()
     print("\n" + message.replace("<b>", "").replace("</b>", ""))
