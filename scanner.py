@@ -627,7 +627,7 @@ def format_pick(item):
         f"⚽ <b>{item['home']} 🆚 {item['away']}</b>\n"
         f"🕘 {clean_time(item['time'])}\n"
         f"🎯 <b>{item['market']}</b>\n"
-        f"📊 Score: {item.get('score', 0)}%\n"
+        f"📊 Score: {item.get('score', 0)}/100\n"
         f"🧠 xG: {xg_text}"
     )
 
@@ -649,9 +649,9 @@ def append_history(picks):
     except Exception:
         history = []
 
-    existing = {str(x.get("key")) for x in history if isinstance(x, dict)}
+    existing = {str(x.get("event_id")) for x in history if isinstance(x, dict)}
     for item in picks:
-        key = f"{item.get('event_id')}|{item.get('market')}|{item.get('time')}"
+        key = f"{item.get('event_id')}"
         if key in existing:
             continue
         history.append({
