@@ -621,8 +621,15 @@ def sort_key(item):
 
 
 def format_pick(item):
-    return f"⚽ <b>{item['home']} 🆚 {item['away']}</b>\n🕘 {clean_time(item['time'])}\n🎯 <b>{item['market']}</b>"
-
+   xg = item.get("xg")
+xg_text = f"{xg:.2f}" if xg is not None else "—"
+return (
+    f"⚽ <b>{item['home']} 🆚 {item['away']}</b>\n"
+    f"🕘 {clean_time(item['time'])}\n"
+    f"🎯 <b>{item['market']}</b>\n"
+    f"📊 Score: {item.get('score', 0)}%\n"
+    f"🧠 xG: {xg_text}"
+)
 
 HISTORY_PATH = os.path.join(os.path.dirname(__file__), "docs", "history.json")
 
