@@ -30,6 +30,7 @@ jobs:
           BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '1560838491'
+      BROADCAST_SECRET: ${{ secrets.BROADCAST_SECRET }}
         run: python scanner.py
       - name: Commit history
         run: |
