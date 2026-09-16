@@ -19,7 +19,9 @@
     "away": "Real Racing Club",
     "market": "OVER 2.5",
     "odds": 1.119,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 7.0,
+    "away_score": 2.0
   },
   {
     "key": "601187|OVER 2.5|2026-09-16T19:00:00+00:00",
