@@ -66,6 +66,17 @@
     "status": "PENDING"
   },
   {
+    "key": "602298|OVER 2.5|2026-09-16T18:45:00+00:00",
+    "event_id": 602298,
+    "date": "21:45",
+    "kickoff": "2026-09-16T18:45:00+00:00",
+    "home": "Everton",
+    "away": "Wolverhampton",
+    "market": "OVER 2.5",
+    "odds": 1.699,
+    "status": "PENDING"
+  },
+  {
     "key": "215950|GG|2026-09-15T23:00:00+00:00",
     "event_id": 215950,
     "date": "02:00",
