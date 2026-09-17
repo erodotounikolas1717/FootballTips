@@ -742,7 +742,8 @@ def main():
         append_history(picks)
         print("\n📲 ΑΠΟΣΤΟΛΗ TELEGRAM...")
         print("✅ Στάλθηκε επιτυχώς στο Telegram." if send_telegram(message) else "❌ Δεν στάλθηκε στο Telegram.")
-        print("✅ Broadcast στάλθηκε στους FREE users." if broadcast_telegram(message) else "❌ Το broadcast δεν στάλθηκε.")    print(f"SUMMARY | Events: {len(events)} | Analysed: {len(results)} | Picks: {len(picks)}")
+        print("✅ Broadcast στάλθηκε στους FREE users." if broadcast_telegram(message) else "❌ Το broadcast δεν στάλθηκε.")    
+        print(f"SUMMARY | Events: {len(events)} | Analysed: {len(results)} | Picks: {len(picks)}")
 
 
 if __name__ == "__main__":
