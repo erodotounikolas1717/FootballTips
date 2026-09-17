@@ -25,6 +25,31 @@ jobs:
         uses: actions/setup-python@v7
         with:
           python-version: '3.12'
+      - name: Test API-Football
+        run: |
+          python - <<'PY'
+          import os
+          import urllib.request
+          import json
+
+          key = os.environ["API_FOOTBALL_KEY"]
+
+          req = urllib.request.Request(
+              "https://v3.football.api-sports.io/leagues",
+              headers={
+                  "x-apisports-key": key,
+                  "User-Agent": "FootballTips/1.0"
+              }
+          )
+
+          with urllib.request.urlopen(req, timeout=30) as r:
+              data = json.loads(r.read().decode())
+
+          print("API-FOOTBALL TEST OK")
+          print("Leagues returned:", len(data.get("response", [])))
+          PY
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
       - name: Run scanner
         env:
           BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
