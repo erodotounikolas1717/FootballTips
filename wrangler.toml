@@ -1,0 +1,8 @@
+name = "footballtips-access"
+main = "worker_access.js"
+compatibility_date = "2026-09-16"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "footballtips_users"
+database_id = "708fdad7-0c36-48d2-baa2-0b6841b29521"
