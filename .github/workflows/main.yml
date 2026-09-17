@@ -60,6 +60,48 @@ jobs:
 
           fixtures = fixtures_data.get("response", [])
           print("Today's fixtures returned:", len(fixtures))
+          bsd_key = os.environ["BSD_API_KEY"].strip()
+
+          bsd_req = urllib.request.Request(
+              "https://sports.bzzoiro.com/api/v2/events/?date_from=2026-09-17&date_to=2026-09-17&status=upcoming&limit=200",
+              headers={
+                  "Authorization": f"Token {bsd_key}",
+                  "User-Agent": "FootballTips/1.0"
+              }
+          )
+
+          with urllib.request.urlopen(bsd_req, timeout=30) as r:
+              bsd_data = json.loads(r.read().decode())
+
+          bsd_events = bsd_data.get("results", [])
+
+          def norm(name):
+              return "".join(
+                  c.lower() for c in str(name)
+                  if c.isalnum()
+              )
+
+          bsd_matches = set()
+
+          for event in bsd_events:
+              home = event.get("home_team") or {}
+              away = event.get("away_team") or {}
+              home_name = home.get("name", "")
+              away_name = away.get("name", "")
+              if home_name and away_name:
+                  bsd_matches.add((norm(home_name), norm(away_name)))
+
+          matched = 0
+
+          for fixture in fixtures:
+              home = fixture.get("teams", {}).get("home", {}).get("name", "")
+              away = fixture.get("teams", {}).get("away", {}).get("name", "")
+
+              if (norm(home), norm(away)) in bsd_matches:
+                  matched += 1
+
+          print("BSD today's fixtures:", len(bsd_events))
+          print("API-Football ↔ BSD matched:", matched)
           PY
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
