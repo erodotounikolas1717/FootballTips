@@ -89,10 +89,18 @@ jobs:
           bsd_matches = set()
 
           for event in bsd_events:
+              if not isinstance(event, dict):
+                  continue
+
               home = event.get("home_team") or {}
               away = event.get("away_team") or {}
+
+              if not isinstance(home, dict) or not isinstance(away, dict):
+                  continue
+
               home_name = home.get("name", "")
               away_name = away.get("name", "")
+
               if home_name and away_name:
                   bsd_matches.add((norm(home_name), norm(away_name)))
 
