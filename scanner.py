@@ -82,6 +82,7 @@ def broadcast_telegram(message):
             data=payload,
             headers={
                 "Content-Type": "application/json",
+                "User-Agent": "FootballTips/1.0",
                 "X-Broadcast-Secret": BROADCAST_SECRET,
             },
             method="POST",
