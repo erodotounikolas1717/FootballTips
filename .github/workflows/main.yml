@@ -115,6 +115,32 @@ jobs:
 
           print("BSD today's fixtures:", len(bsd_events))
           print("API-Football ↔ BSD matched:", matched)
+
+          print("=== API-FOOTBALL SAMPLE ===")
+          for fixture in fixtures[:10]:
+              home = fixture.get("teams", {}).get("home", {}).get("name", "")
+              away = fixture.get("teams", {}).get("away", {}).get("name", "")
+              print(home, "🆚", away)
+
+          print("=== BSD SAMPLE ===")
+          shown = 0
+          for event in bsd_events:
+              if not isinstance(event, dict):
+                  continue
+
+              home = event.get("home_team") or {}
+              away = event.get("away_team") or {}
+
+              if not isinstance(home, dict) or not isinstance(away, dict):
+                  continue
+
+              print(home.get("name", ""), "🆚", away.get("name", ""))
+              shown += 1
+
+              if shown >= 10:
+                  break
+
+          
           PY
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
