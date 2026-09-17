@@ -22,6 +22,17 @@
     "status": "PENDING"
   },
   {
+    "key": "587814",
+    "event_id": 587814,
+    "date": "03:30",
+    "kickoff": "2026-09-17T00:30:00+00:00",
+    "home": "Birmingham Legion FC",
+    "away": "New Mexico United",
+    "market": "GG",
+    "odds": 1.463,
+    "status": "PENDING"
+  },
+  {
     "key": "207812|Over 2.5 + GG|2026-09-16T22:00:00+00:00",
     "event_id": 207812,
     "date": "01:00",
