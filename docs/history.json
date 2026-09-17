@@ -30,7 +30,9 @@
     "away": "New Mexico United",
     "market": "GG",
     "odds": 1.463,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 4.0
   },
   {
     "key": "207812|Over 2.5 + GG|2026-09-16T22:00:00+00:00",
