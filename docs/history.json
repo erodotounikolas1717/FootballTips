@@ -19,7 +19,9 @@
     "away": "Norwich City",
     "market": "OVER 2.5",
     "odds": 1.24,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 0.0
   },
   {
     "key": "587814",
