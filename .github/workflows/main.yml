@@ -105,6 +105,7 @@ jobs:
           PY
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
       - name: Run scanner
         
         env:
