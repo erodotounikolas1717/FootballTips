@@ -58,7 +58,12 @@ jobs:
           with urllib.request.urlopen(req, timeout=30) as r:
               fixtures_data = json.loads(r.read().decode())
 
-          fixtures = fixtures_data.get("response", [])
+          if isinstance(fixtures_data, dict):
+              fixtures = fixtures_data.get("response", [])
+          else:
+              fixtures = []
+
+          print("Fixtures data type:", type(fixtures_data).__name__)
           print("Today's fixtures returned:", len(fixtures))
           bsd_key = os.environ["BSD_API_KEY"].strip()
 
