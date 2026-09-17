@@ -109,7 +109,14 @@ jobs:
 
           print("BSD today's fixtures:", len(bsd_events))
           print("API-Football ↔ BSD matched:", matched)
+          print("=== MATCHED FIXTURES ===")
 
+          for fixture in fixtures:
+              home = fixture.get("teams", {}).get("home", {}).get("name", "")
+              away = fixture.get("teams", {}).get("away", {}).get("name", "")
+
+              if (norm(home), norm(away)) in bsd_matches:
+                  print("MATCH:", home, "vs", away)
           print("=== API-FOOTBALL SAMPLE ===")
           for fixture in fixtures[:10]:
               home = fixture.get("teams", {}).get("home", {}).get("name", "")
