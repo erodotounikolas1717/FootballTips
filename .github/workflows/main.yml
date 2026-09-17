@@ -32,7 +32,7 @@ jobs:
           import urllib.request
           import json
 
-          key = os.environ["API_FOOTBALL_KEY"]
+          key = os.environ["API_FOOTBALL_KEY"].strip()
 
           req = urllib.request.Request(
               "https://v3.football.api-sports.io/leagues",
