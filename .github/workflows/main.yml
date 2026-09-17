@@ -31,6 +31,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '1560838491'
           BROADCAST_SECRET: ${{ secrets.BROADCAST_SECRET }}
+          ACCESS_WORKER_URL: 'https://footballtips-access.erodotounikolas.workers.dev'
         run: python scanner.py
       - name: Commit history
         run: |
