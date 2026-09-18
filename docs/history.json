@@ -8,7 +8,9 @@
     "away": "RC Lens",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "588196",
@@ -19,7 +21,9 @@
     "away": "Solihull Moors",
     "market": "GG",
     "odds": 1.563,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "210103",
@@ -30,7 +34,9 @@
     "away": "Sassuolo",
     "market": "GG",
     "odds": 1.568,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "213698",
@@ -54,7 +60,9 @@
     "away": "Córdoba",
     "market": "GG",
     "odds": 1.558,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "210853",
