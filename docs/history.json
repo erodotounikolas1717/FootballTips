@@ -1,5 +1,93 @@
 [
   {
+    "key": "210473",
+    "event_id": 210473,
+    "date": "21:45",
+    "kickoff": "2026-09-18T18:45:00+00:00",
+    "home": "AS Monaco",
+    "away": "RC Lens",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "588196",
+    "event_id": 588196,
+    "date": "21:45",
+    "kickoff": "2026-09-18T18:45:00+00:00",
+    "home": "Yeovil Town",
+    "away": "Solihull Moors",
+    "market": "GG",
+    "odds": 1.563,
+    "status": "PENDING"
+  },
+  {
+    "key": "213698",
+    "event_id": 213698,
+    "date": "21:30",
+    "kickoff": "2026-09-18T18:30:00+00:00",
+    "home": "FC Bayern München",
+    "away": "1. FC Union Berlin",
+    "market": "OVER 2.5",
+    "odds": 1.097,
+    "status": "PENDING"
+  },
+  {
+    "key": "214822",
+    "event_id": 214822,
+    "date": "21:30",
+    "kickoff": "2026-09-18T18:30:00+00:00",
+    "home": "Albacete Balompié",
+    "away": "Córdoba",
+    "market": "GG",
+    "odds": 1.558,
+    "status": "PENDING"
+  },
+  {
+    "key": "210853",
+    "event_id": 210853,
+    "date": "21:00",
+    "kickoff": "2026-09-18T18:00:00+00:00",
+    "home": "FC Groningen",
+    "away": "PEC Zwolle",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "602669",
+    "event_id": 602669,
+    "date": "19:30",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "home": "VfL Wolfsburg",
+    "away": "Darmstadt 98",
+    "market": "OVER 2.5",
+    "odds": 1.43,
+    "status": "PENDING"
+  },
+  {
+    "key": "602668",
+    "event_id": 602668,
+    "date": "19:30",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "home": "SpVgg Greuther Fürth",
+    "away": "1. FC Magdeburg",
+    "market": "OVER 2.5",
+    "odds": 1.422,
+    "status": "PENDING"
+  },
+  {
+    "key": "602519",
+    "event_id": 602519,
+    "date": "14:35",
+    "kickoff": "2026-09-18T11:35:00+00:00",
+    "home": "Zhejiang",
+    "away": "Wuhan Three Towns",
+    "market": "Over 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
     "key": "601211",
     "event_id": 601211,
     "date": "22:00",
