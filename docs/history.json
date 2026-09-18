@@ -96,7 +96,9 @@
     "away": "Wuhan Three Towns",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "601211",
