@@ -142,12 +142,6 @@ jobs:
                   break
 
           
-jobs:
-      - name: Run scanner
-        env:
-          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: "1560838491"
           BROADCAST_SECRET: ${{ secrets.BROADCAST_SECRET }}
           ACCESS_WORKER_URL: "https://footballtips-access.erodotounikolas.workers.dev"
