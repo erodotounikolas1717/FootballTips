@@ -142,7 +142,7 @@ jobs:
                   break
 
           
-        env:
+jobs:
       - name: Run scanner
         env:
           BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
