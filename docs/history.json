@@ -74,7 +74,9 @@
     "away": "Darmstadt 98",
     "market": "OVER 2.5",
     "odds": 1.43,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "602668",
@@ -85,7 +87,9 @@
     "away": "1. FC Magdeburg",
     "market": "OVER 2.5",
     "odds": 1.422,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "602519",
