@@ -10,7 +10,8 @@ TELEGRAM_BASE = "https://api.telegram.org"
 BSD_API_KEY = os.getenv("BSD_API_KEY", "")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
-
+ACCESS_WORKER_URL = os.getenv("ACCESS_WORKER_URL", "")
+BROADCAST_SECRET = os.getenv("BROADCAST_SECRET", "")
 if not BSD_API_KEY:
     print("❌ Δεν βρέθηκε BSD_API_KEY στο .env")
     raise SystemExit(1)
@@ -70,7 +71,31 @@ def send_telegram(message):
         return False
     result = telegram_post("sendMessage", {"chat_id": chat_id, "text": message, "parse_mode": "HTML", "disable_web_page_preview": "true"})
     return bool(result and result.get("ok"))
+def broadcast_telegram(message):
+    if not ACCESS_WORKER_URL or not BROADCAST_SECRET:
+        return False
 
+    try:
+        payload = json.dumps({"message": message}).encode("utf-8")
+        req = urllib.request.Request(
+            f"{ACCESS_WORKER_URL}/broadcast",
+            data=payload,
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "FootballTips/1.0",
+                "X-Broadcast-Secret": BROADCAST_SECRET,
+            },
+            method="POST",
+        )
+
+        with urllib.request.urlopen(req, timeout=30) as response:
+            data = json.loads(response.read().decode("utf-8"))
+
+        return bool(data.get("ok"))
+
+    except Exception as e:
+        print(f"BROADCAST ERROR: {e}")
+        return False
 
 def safe_float(value):
     try:
@@ -718,7 +743,8 @@ def main():
         append_history(picks)
         print("\n📲 ΑΠΟΣΤΟΛΗ TELEGRAM...")
         print("✅ Στάλθηκε επιτυχώς στο Telegram." if send_telegram(message) else "❌ Δεν στάλθηκε στο Telegram.")
-    print(f"SUMMARY | Events: {len(events)} | Analysed: {len(results)} | Picks: {len(picks)}")
+        print("✅ Broadcast στάλθηκε στους FREE users." if broadcast_telegram(message) else "❌ Το broadcast δεν στάλθηκε.")    
+        print(f"SUMMARY | Events: {len(events)} | Analysed: {len(results)} | Picks: {len(picks)}")
 
 
 if __name__ == "__main__":
