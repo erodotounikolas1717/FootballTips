@@ -41,7 +41,9 @@
     "away": "1. FC Union Berlin",
     "market": "OVER 2.5",
     "odds": 1.097,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 7.0,
+    "away_score": 0.0
   },
   {
     "key": "214822",
@@ -63,7 +65,9 @@
     "away": "PEC Zwolle",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "602669",
