@@ -142,7 +142,7 @@ jobs:
                   break
 
           
-          PY
+                  PY
         env:
       - name: Run scanner
         env:
