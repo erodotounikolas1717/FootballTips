@@ -145,9 +145,6 @@ jobs:
           TELEGRAM_CHAT_ID: "1560838491"
           BROADCAST_SECRET: ${{ secrets.BROADCAST_SECRET }}
           ACCESS_WORKER_URL: "https://footballtips-access.erodotounikolas.workers.dev"
-        run: python scanner.py
-      - name: Commit history
-        run: |
           git config user.name "football-tips-bot"
           git config user.email "actions@github.com"
           git add docs/history.json
