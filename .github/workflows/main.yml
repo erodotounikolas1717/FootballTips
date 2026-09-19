@@ -3,10 +3,10 @@ name: Football Tips Scanner
 on:
   workflow_dispatch:
   schedule:
-      - cron: '0 9 * * *'
-        timezone: 'Europe/Nicosia'
-      - cron: '0 17 * * *'
-        timezone: 'Europe/Nicosia'
+    - cron: '0 9 * * *'
+      timezone: 'Europe/Nicosia'
+    - cron: '0 17 * * *'
+      timezone: 'Europe/Nicosia'
 
 permissions:
   contents: write
@@ -18,136 +18,57 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout FootballTips
         uses: actions/checkout@v6
+
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Test API-Football
-        run: |
-          python - <<'PY'
-          import os
-          import urllib.request
-          import json
 
-          key = os.environ["API_FOOTBALL_KEY"].strip()
-
-          req = urllib.request.Request(
-              "https://v3.football.api-sports.io/leagues",
-              headers={
-                  "x-apisports-key": key,
-                  "User-Agent": "FootballTips/1.0"
-              }
-          )
-
-          with urllib.request.urlopen(req, timeout=30) as r:
-              data = json.loads(r.read().decode())
-
-          print("API-FOOTBALL TEST OK")
-          print("Leagues returned:", len(data.get("response", [])))
-          req = urllib.request.Request(
-              "https://v3.football.api-sports.io/fixtures?date=2026-09-17",
-              headers={
-                  "x-apisports-key": key,
-                  "User-Agent": "FootballTips/1.0"
-              }
-          )
-
-          with urllib.request.urlopen(req, timeout=30) as r:
-              fixtures_data = json.loads(r.read().decode())
-
-          if isinstance(fixtures_data, dict):
-              fixtures = fixtures_data.get("response", [])
-          else:
-              fixtures = []
-
-          print("Fixtures data type:", type(fixtures_data).__name__)
-          print("Today's fixtures returned:", len(fixtures))
-          bsd_key = os.environ["BSD_API_KEY"].strip()
-
-          bsd_req = urllib.request.Request(
-              "https://sports.bzzoiro.com/api/v2/events/?date_from=2026-09-17&date_to=2026-09-17&status=upcoming&limit=200",
-              headers={
-                  "Authorization": f"Token {bsd_key}",
-                  "User-Agent": "FootballTips/1.0"
-              }
-          )
-
-          with urllib.request.urlopen(bsd_req, timeout=30) as r:
-              bsd_data = json.loads(r.read().decode())
-
-          bsd_events = bsd_data.get("results", [])
-
-          def norm(name):
-              return "".join(
-                  c.lower() for c in str(name)
-                  if c.isalnum()
-              )
-
-          bsd_matches = set()
-
-          for event in bsd_events:
-              if not isinstance(event, dict):
-                  continue
-
-              home_name = event.get("home_team") or ""
-              away_name = event.get("away_team") or ""
-
-              if home_name and away_name:
-                  bsd_matches.add((norm(home_name), norm(away_name)))
-
-          matched = 0
-
-          for fixture in fixtures:
-              home = fixture.get("teams", {}).get("home", {}).get("name", "")
-              away = fixture.get("teams", {}).get("away", {}).get("name", "")
-
-              if (norm(home), norm(away)) in bsd_matches:
-                  matched += 1
-
-          print("BSD today's fixtures:", len(bsd_events))
-          print("API-Football ↔ BSD matched:", matched)
-          print("=== MATCHED FIXTURES ===")
-
-          for fixture in fixtures:
-              home = fixture.get("teams", {}).get("home", {}).get("name", "")
-              away = fixture.get("teams", {}).get("away", {}).get("name", "")
-
-              if (norm(home), norm(away)) in bsd_matches:
-                  print("MATCH:", home, "vs", away)
-          print("=== API-FOOTBALL SAMPLE ===")
-          for fixture in fixtures[:10]:
-              home = fixture.get("teams", {}).get("home", {}).get("name", "")
-              away = fixture.get("teams", {}).get("away", {}).get("name", "")
-              print(home, "🆚", away)
-
-          print("=== BSD SAMPLE ===")
-          shown = 0
-          for event in bsd_events:
-              if not isinstance(event, dict):
-                  continue
-
-              home = event.get("home_team") or {}
-              away = event.get("away_team") or {}
-
-              if not isinstance(home, dict) or not isinstance(away, dict):
-                  continue
-
-              print(home.get("name", ""), "🆚", away.get("name", ""))
-              shown += 1
-
-              if shown >= 10:
-                  break
-
-          
-            PY
-          TELEGRAM_CHAT_ID: "1560838491"
+      - name: Run scanner
+        env:
+          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: '1560838491'
           BROADCAST_SECRET: ${{ secrets.BROADCAST_SECRET }}
-          ACCESS_WORKER_URL: "https://footballtips-access.erodotounikolas.workers.dev"
+          ACCESS_WORKER_URL: 'https://footballtips-access.erodotounikolas.workers.dev'
+        run: |
+          python scanner.py
+
+      - name: Save history
+        run: |
           git config user.name "football-tips-bot"
           git config user.email "actions@github.com"
           git add docs/history.json
           git diff --cached --quiet || git commit -m "Add new tips to history"
+          git push
+
+  history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout FootballTips
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Update history
+        env:
+          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
+        run: |
+          python update_history.py
+
+      - name: Save history
+        run: |
+          git config user.name "football-tips-bot"
+          git config user.email "actions@github.com"
+          git add docs/history.json
+          git diff --cached --quiet || git commit -m "Update tips history"
           git push
