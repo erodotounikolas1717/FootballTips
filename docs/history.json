@@ -30,7 +30,9 @@
     "away": "Monterey Bay FC",
     "market": "OVER 2.5",
     "odds": 1.465,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "213587",
