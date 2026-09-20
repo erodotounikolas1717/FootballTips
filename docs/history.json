@@ -8,7 +8,9 @@
     "away": "Orlando City SC",
     "market": "GG",
     "odds": 1.405,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 2.0
   },
   {
     "key": "5291",
@@ -19,7 +21,9 @@
     "away": "Columbus Crew",
     "market": "GG",
     "odds": 1.477,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "207814",
