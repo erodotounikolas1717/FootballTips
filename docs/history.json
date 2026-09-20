@@ -41,7 +41,9 @@
     "away": "FC Barcelona",
     "market": "OVER 2.5",
     "odds": 1.288,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "210857",
@@ -52,7 +54,9 @@
     "away": "Fortuna Sittard",
     "market": "OVER 2.5",
     "odds": 1.516,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "210478",
@@ -63,7 +67,9 @@
     "away": "Stade Rennais",
     "market": "GG",
     "odds": 1.465,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 4.0,
+    "away_score": 0.0
   },
   {
     "key": "602673",
@@ -74,7 +80,9 @@
     "away": "Hertha BSC",
     "market": "OVER 2.5",
     "odds": 1.42,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "210856",
@@ -85,7 +93,9 @@
     "away": "Excelsior",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "580532",
@@ -96,7 +106,9 @@
     "away": "Saint-Étienne",
     "market": "GG",
     "odds": 1.61,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "602477",
@@ -107,7 +119,9 @@
     "away": "União de Leiria",
     "market": "OVER 2.5",
     "odds": 1.896,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "210855",
@@ -118,7 +132,9 @@
     "away": "SC Heerenveen",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "211143",
@@ -129,7 +145,9 @@
     "away": "Heart of Midlothian",
     "market": "OVER 2.5",
     "odds": 1.518,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "213703",
@@ -140,7 +158,9 @@
     "away": "Borussia Dortmund",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "207077",
@@ -151,7 +171,9 @@
     "away": "Aalesunds FK",
     "market": "OVER 2.5",
     "odds": 1.188,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "211416",
@@ -162,7 +184,9 @@
     "away": "FC Zürich",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "211415",
@@ -173,7 +197,9 @@
     "away": "Grasshopper Club Zürich",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "211414",
@@ -184,7 +210,9 @@
     "away": "Servette FC",
     "market": "OVER 3.5",
     "odds": 1.896,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "221525",
@@ -195,7 +223,9 @@
     "away": "FC Midtjylland",
     "market": "GG",
     "odds": 1.509,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "211905",
@@ -206,7 +236,9 @@
     "away": "KS Cracovia",
     "market": "OVER 2.5",
     "odds": 1.677,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "210480",
@@ -217,7 +249,9 @@
     "away": "RC Strasbourg",
     "market": "OVER 2.5",
     "odds": 1.613,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "210854",
@@ -228,7 +262,9 @@
     "away": "SC Cambuur",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "224627",
@@ -239,7 +275,9 @@
     "away": "Crawley Town",
     "market": "OVER 2.5",
     "odds": 1.462,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "588201",
@@ -250,7 +288,9 @@
     "away": "Harrogate Town",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "588204",
@@ -261,7 +301,9 @@
     "away": "Boston United",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "588199",
@@ -272,7 +314,9 @@
     "away": "Altrincham FC",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "224121",
@@ -283,7 +327,9 @@
     "away": "Plymouth Argyle",
     "market": "GG",
     "odds": 1.514,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "224622",
@@ -294,7 +340,9 @@
     "away": "York City",
     "market": "GG",
     "odds": 1.546,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "224126",
@@ -305,7 +353,9 @@
     "away": "Doncaster Rovers",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "588200",
@@ -316,7 +366,9 @@
     "away": "Aldershot Town",
     "market": "GG",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "602575",
@@ -327,7 +379,9 @@
     "away": "Quorn FC",
     "market": "GG",
     "odds": 1.532,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "210473",
