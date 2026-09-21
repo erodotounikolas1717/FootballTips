@@ -8,7 +8,9 @@
     "away": "Paris Saint-Germain",
     "market": "OVER 2.5",
     "odds": 1.37,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "207078",
@@ -19,7 +21,9 @@
     "away": "Bodø/Glimt",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "211364",
@@ -30,7 +34,9 @@
     "away": "KRC Genk",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "221527",
@@ -41,7 +47,9 @@
     "away": "FC Nordsjælland",
     "market": "OVER 2.5",
     "odds": 1.512,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "213699",
@@ -52,7 +60,9 @@
     "away": "SV 07 Elversberg",
     "market": "OVER 2.5",
     "odds": 1.498,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "209579",
@@ -63,7 +73,9 @@
     "away": "Manchester United",
     "market": "GG",
     "odds": 1.49,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "207082",
@@ -74,7 +86,9 @@
     "away": "Lillestrøm SK",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "603784",
@@ -85,7 +99,9 @@
     "away": "SK Sturm Graz",
     "market": "GG",
     "odds": 1.434,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "210860",
@@ -96,7 +112,9 @@
     "away": "Go Ahead Eagles",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "211418",
@@ -107,7 +125,9 @@
     "away": "FC St. Gallen 1879",
     "market": "OVER 3.5",
     "odds": 1.956,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "211419",
@@ -118,7 +138,9 @@
     "away": "FC Lugano",
     "market": "GG",
     "odds": 1.577,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "213581",
@@ -129,7 +151,9 @@
     "away": "Real Madrid",
     "market": "OVER 2.5",
     "odds": 1.45,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "211363",
@@ -140,7 +164,9 @@
     "away": "KVC Westerlo",
     "market": "OVER 2.5",
     "odds": 1.42,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "213695",
@@ -151,7 +177,9 @@
     "away": "RB Leipzig",
     "market": "OVER 3.5",
     "odds": 1.874,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "210101",
@@ -162,7 +190,9 @@
     "away": "Como",
     "market": "OVER 2.5",
     "odds": 1.434,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "209580",
@@ -173,7 +203,9 @@
     "away": "Crystal Palace",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "214065",
@@ -184,7 +216,9 @@
     "away": "Bolton Wanderers",
     "market": "OVER 2.5",
     "odds": 1.478,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 4.0
   },
   {
     "key": "207083",
@@ -195,7 +229,9 @@
     "away": "Fredrikstad FK",
     "market": "GG",
     "odds": 1.465,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "211417",
@@ -206,7 +242,9 @@
     "away": "FC Thun",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "221523",
@@ -217,7 +255,9 @@
     "away": "FC København",
     "market": "OVER 2.5",
     "odds": 1.644,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "602675",
@@ -228,7 +268,9 @@
     "away": "FC St. Pauli",
     "market": "OVER 2.5",
     "odds": 1.396,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "602674",
@@ -239,7 +281,9 @@
     "away": "1. FC Heidenheim",
     "market": "OVER 2.5",
     "odds": 1.544,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "210858",
@@ -250,7 +294,9 @@
     "away": "FC Utrecht",
     "market": "Over 2.5 + GG",
     "odds": null,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 5.0,
+    "away_score": 0.0
   },
   {
     "key": "5301",
