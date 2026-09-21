@@ -8,7 +8,9 @@
     "away": "Santos Laguna",
     "market": "OVER 2.5",
     "odds": 1.312,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "210479",
