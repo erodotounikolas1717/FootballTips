@@ -318,7 +318,7 @@ def get_name(obj):
 # ============================================================
 
 API_FOOTBALL_BASE = "https://v3.football.api-sports.io"
-API_FOOTBALL_KEY = os.getenv("API_FOOTBALL_KEY", "")
+API_FOOTBALL_KEY = str(os.getenv("API_FOOTBALL_KEY", "")).strip()
 
 API_FOOTBALL_CACHE = {}
 
