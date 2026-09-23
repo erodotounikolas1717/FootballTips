@@ -1168,5 +1168,93 @@
     "status": "WIN",
     "home_score": 2.0,
     "away_score": 5.0
+  },
+  {
+    "key": "1602104|GG|2026-09-23T15:00:00+00:00",
+    "event_id": 1602104,
+    "date": "18:00",
+    "kickoff": "2026-09-23T15:00:00+00:00",
+    "home": "Dreams",
+    "away": "Medeama",
+    "market": "GG",
+    "odds": 1.75,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639931|OVER 2.5|2026-09-23T20:00:00+00:00",
+    "event_id": 1639931,
+    "date": "23:00",
+    "kickoff": "2026-09-23T20:00:00+00:00",
+    "home": "Bahamas",
+    "away": "Saint Martin",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1609908|OVER 2.5|2026-09-23T14:00:00+00:00",
+    "event_id": 1609908,
+    "date": "17:00",
+    "kickoff": "2026-09-23T14:00:00+00:00",
+    "home": "Drina Zvornik",
+    "away": "Rudar Prijedor",
+    "market": "OVER 2.5",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1638283|OVER 2.5|2026-09-23T18:00:00+00:00",
+    "event_id": 1638283,
+    "date": "21:00",
+    "kickoff": "2026-09-23T18:00:00+00:00",
+    "home": "TOGB",
+    "away": "ROHDA Raalte",
+    "market": "OVER 2.5",
+    "odds": 1.2,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612042|OVER 2.5|2026-09-23T18:00:00+00:00",
+    "event_id": 1612042,
+    "date": "21:00",
+    "kickoff": "2026-09-23T18:00:00+00:00",
+    "home": "Defensa y Justicia Res.",
+    "away": "Tigre Res.",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549793|GG|2026-09-24T00:30:00+00:00",
+    "event_id": 1549793,
+    "date": "03:30",
+    "kickoff": "2026-09-24T00:30:00+00:00",
+    "home": "America de Cali",
+    "away": "Águilas Doradas",
+    "market": "GG",
+    "odds": 2.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493703|OVER 3.5 + GG|2026-09-23T16:00:00+00:00",
+    "event_id": 1493703,
+    "date": "19:00",
+    "kickoff": "2026-09-23T16:00:00+00:00",
+    "home": "Birmingham Legion",
+    "away": "Brooklyn",
+    "market": "OVER 3.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612047|OVER 2.5 + GG|2026-09-23T20:00:00+00:00",
+    "event_id": 1612047,
+    "date": "23:00",
+    "kickoff": "2026-09-23T20:00:00+00:00",
+    "home": "Lanús Res.",
+    "away": "Banfield Res.",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
   }
 ]
