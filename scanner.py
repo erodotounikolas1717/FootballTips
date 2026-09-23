@@ -1527,6 +1527,133 @@ def process_event(event):
 
 
 
+
+def save_picks_to_history(selection):
+    """Save the exact Main + Builder picks as PENDING history entries."""
+    from pathlib import Path
+    import json
+
+    path = Path("docs/history.json")
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    try:
+        history = json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+    except Exception:
+        history = []
+
+    if not isinstance(history, list):
+        history = []
+
+    existing_keys = {
+        str(item.get("key"))
+        for item in history
+        if isinstance(item, dict)
+    }
+
+    def add_item(result, market):
+        if not isinstance(result, dict):
+            return
+
+        event_id = (
+            result.get("event_id")
+            or result.get("id")
+            or result.get("fixture_id")
+        )
+
+        if event_id is None:
+            return
+
+        home = result.get("home", "")
+        away = result.get("away", "")
+        kickoff = result.get("time", "")
+
+        # Keep the existing History date/time structure.
+        display_date = ""
+        display_time = ""
+
+        try:
+            from datetime import datetime
+            from zoneinfo import ZoneInfo
+
+            dt = datetime.fromisoformat(
+                str(kickoff).replace("Z", "+00:00")
+            )
+
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=ZoneInfo("UTC"))
+
+            local_dt = dt.astimezone(ZoneInfo("Europe/Nicosia"))
+            display_date = local_dt.strftime("%Y-%m-%d")
+            display_time = local_dt.strftime("%H:%M")
+        except Exception:
+            raw = str(kickoff)
+            if len(raw) >= 5 and raw[2] == ":":
+                display_time = raw[:5]
+            display_date = raw[:10] if len(raw) >= 10 else ""
+
+        key = f"{event_id}|{market}|{kickoff}"
+
+        if key in existing_keys:
+            return
+
+        odds = None
+
+        markets = result.get("markets") or {}
+        market_data = markets.get(market) or {}
+
+        if isinstance(market_data, dict):
+            odds = (
+                market_data.get("odds")
+                or market_data.get("odd")
+            )
+
+        if odds is None:
+            odds = result.get("odds")
+
+        history.append({
+            "key": key,
+            "event_id": event_id,
+            "date": display_time,
+            "kickoff": kickoff,
+            "home": home,
+            "away": away,
+            "market": market,
+            "odds": odds,
+            "status": "PENDING",
+        })
+
+        existing_keys.add(key)
+
+    # MAIN picks
+    for item in selection.get("main") or []:
+        result = item.get("result") or item
+        market = item.get("main_market") or item.get("market")
+
+        if market in ("OVER 2.5", "OVER 3.5", "GG"):
+            add_item(result, market)
+
+    # BET BUILDER picks
+    for item in selection.get("builders") or []:
+        result = item.get("result") or item
+        builder_markets = item.get("builder_markets") or []
+
+        if "GG" not in builder_markets:
+            continue
+
+        if "OVER 3.5" in builder_markets:
+            market = "OVER 3.5 + GG"
+        elif "OVER 2.5" in builder_markets:
+            market = "OVER 2.5 + GG"
+        else:
+            continue
+
+        add_item(result, market)
+
+    path.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
 def select_picks(results):
     """
     MAIN:
@@ -1872,6 +1999,7 @@ def main():
             print(f"⚠️ Error στο {home} - {away}: {e}")
 
     selection = select_picks(results)
+    save_picks_to_history(selection)
 
     picks = selection.get("main") or []
 

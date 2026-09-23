@@ -18,7 +18,10 @@ def result_for(market,hs,aws):
     if market=='OVER 2.5': return total>=3
     if market=='OVER 3.5': return total>=4
     if market=='GG': return hs>=1 and aws>=1
-    if market=='Over 2.5 + GG': return total>=3 and hs>=1 and aws>=1
+    if market in ('OVER 2.5 + GG', 'Over 2.5 + GG'):
+        return total>=3 and hs>=1 and aws>=1
+    if market in ('OVER 3.5 + GG', 'Over 3.5 + GG'):
+        return total>=4 and hs>=1 and aws>=1
     return None
 
 if not KEY: raise SystemExit('BSD_API_KEY missing')
