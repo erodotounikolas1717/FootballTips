@@ -30,7 +30,8 @@ def youth_or_non_target_fixture(event):
         "u15", "u14",
         "youth", "junior", "women", "woman",
         "feminino", "femenino", "female",
-        "girls", "girl"
+        "girls", "girl",
+        "reserve", "reserves"
     )
 
     # Common API-Football team-name convention:
@@ -444,6 +445,7 @@ def get_api_football_today():
             "youth", "junior", "women", "woman",
             "feminino", "femenino", "female",
             "girls", "girl",
+            "reserve", "reserves",
         )
 
         # API-Football commonly labels women's teams with a
