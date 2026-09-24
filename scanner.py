@@ -1412,13 +1412,13 @@ def process_event(event):
     # qualify for OVER + GG.
     builder_candidate = (
         (
-            h_o25 >= 3
-            and a_o25 >= 3
-        )
-        or
-        (
-            h_o35 >= 3
-            and a_o35 >= 3
+            (h_o25 >= 5 and a_o25 >= 4)
+            or
+            (h_o25 >= 4 and a_o25 >= 5)
+            or
+            (h_o35 >= 4 and a_o35 >= 3)
+            or
+            (h_o35 >= 3 and a_o35 >= 4)
         )
     ) and (
         h_btts >= 50
