@@ -1842,9 +1842,17 @@ def select_picks(results):
         # Relaxed Builder requirements.
         over_market = None
 
-        if h_o35 >= 3 and a_o35 >= 3:
+        if (
+            (h_o35 >= 5 and a_o35 >= 4)
+            or
+            (h_o35 >= 4 and a_o35 >= 5)
+        ):
             over_market = "OVER 3.5"
-        elif h_o25 >= 3 and a_o25 >= 3:
+        elif (
+            (h_o25 >= 5 and a_o25 >= 4)
+            or
+            (h_o25 >= 4 and a_o25 >= 5)
+        ):
             over_market = "OVER 2.5"
 
         if not over_market:
