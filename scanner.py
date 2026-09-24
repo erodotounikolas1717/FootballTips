@@ -1285,6 +1285,59 @@ def get_recent_form(team_id):
     return overall
 
 
+STANDINGS_CACHE = {}
+
+def get_team_rankings(league_id, season):
+    key = f"{league_id}_{season}"
+
+    if key in STANDINGS_CACHE:
+        return STANDINGS_CACHE[key]
+
+    data = api_football_get(
+        f"/standings?league={league_id}&season={season}"
+    )
+
+    rankings = {}
+
+    try:
+        response = data.get("response") or []
+        if response:
+            league_data = response[0].get("league") or {}
+            standings = league_data.get("standings") or []
+
+            if standings:
+                for row in standings[0]:
+                    team = row.get("team") or {}
+                    team_id = team.get("id")
+                    rank = row.get("rank")
+
+                    if team_id is not None and rank is not None:
+                        rankings[int(team_id)] = int(rank)
+    except Exception as e:
+        print("STANDINGS PARSE ERROR:", e)
+
+    STANDINGS_CACHE[key] = rankings
+    return rankings
+
+
+def is_top4_derby(league_id, season, home_id, away_id):
+    if not league_id or not season or not home_id or not away_id:
+        return False
+
+    rankings = get_team_rankings(league_id, season)
+
+    if not rankings:
+        return False
+
+    home_rank = rankings.get(int(home_id))
+    away_rank = rankings.get(int(away_id))
+
+    if home_rank is None or away_rank is None:
+        return False
+
+    return home_rank <= 4 and away_rank <= 4
+
+
 def process_event(event):
     # Reject youth/women/non-target fixtures BEFORE any expensive API-Football calls.
     if youth_or_non_target_fixture(event):
@@ -1317,6 +1370,36 @@ def process_event(event):
     away_id = away_id or event.get("away_team_id")
 
     event_date = event.get("event_date") or event.get("start_time")
+
+    # ---------------------------------------------------------
+    # TOP-4 DERBY FILTER
+    # Exclude matches where BOTH teams are ranked 1st-4th.
+    # Example:
+    #   1 vs 2 -> excluded
+    #   1 vs 4 -> excluded
+    #   1 vs 5 -> allowed
+    #   4 vs 7 -> allowed
+    # ---------------------------------------------------------
+    league_id = event.get("league_id")
+
+    season = event.get("season")
+    if not season and event_date:
+        try:
+            season = int(str(event_date)[:4])
+        except Exception:
+            season = None
+
+    if is_top4_derby(
+        league_id,
+        season,
+        home_id,
+        away_id,
+    ):
+        print(
+            f"🚫 TOP-4 DERBY — skipping: "
+            f"{home} vs {away}"
+        )
+        return None
 
     # API-Football fixture
     # API-Football /predictions disabled: it does not provide
