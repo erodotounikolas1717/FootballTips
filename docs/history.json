@@ -1267,5 +1267,148 @@
     "market": "OVER 2.5 + GG",
     "odds": null,
     "status": "PENDING"
+  },
+  {
+    "key": "1595241|OVER 2.5|2026-09-24T15:00:00+00:00",
+    "event_id": 1595241,
+    "date": "18:00",
+    "kickoff": "2026-09-24T15:00:00+00:00",
+    "home": "Koprivnica",
+    "away": "Uskok Klis",
+    "market": "OVER 2.5",
+    "odds": 1.6,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528865|OVER 2.5|2026-09-24T18:45:00+00:00",
+    "event_id": 1528865,
+    "date": "21:45",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "home": "Norway",
+    "away": "Denmark",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511407|OVER 2.5|2026-09-24T18:15:00+00:00",
+    "event_id": 1511407,
+    "date": "21:15",
+    "kickoff": "2026-09-24T18:15:00+00:00",
+    "home": "Kongahälla",
+    "away": "Lindome",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528862|GG|2026-09-24T18:45:00+00:00",
+    "event_id": 1528862,
+    "date": "21:45",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "home": "Netherlands",
+    "away": "Germany",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639933|OVER 2.5|2026-09-24T19:00:00+00:00",
+    "event_id": 1639933,
+    "date": "22:00",
+    "kickoff": "2026-09-24T19:00:00+00:00",
+    "home": "Puerto Rico",
+    "away": "Guyana",
+    "market": "OVER 2.5",
+    "odds": 2.05,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639936|OVER 2.5|2026-09-25T00:20:00+00:00",
+    "event_id": 1639936,
+    "date": "03:20",
+    "kickoff": "2026-09-25T00:20:00+00:00",
+    "home": "Haiti",
+    "away": "Trinidad and Tobago",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612049|GG|2026-09-24T22:00:00+00:00",
+    "event_id": 1612049,
+    "date": "01:00",
+    "kickoff": "2026-09-24T22:00:00+00:00",
+    "home": "Racing Club Res.",
+    "away": "Independiente Res.",
+    "market": "GG",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612043|OVER 2.5 + GG|2026-09-24T18:00:00+00:00",
+    "event_id": 1612043,
+    "date": "21:00",
+    "kickoff": "2026-09-24T18:00:00+00:00",
+    "home": "Deportivo Riestra Res.",
+    "away": "Barracas Central Res.",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555158|OVER 2.5 + GG|2026-09-24T16:00:00+00:00",
+    "event_id": 1555158,
+    "date": "19:00",
+    "kickoff": "2026-09-24T16:00:00+00:00",
+    "home": "Hapoel Rishon LeZion",
+    "away": "Maccabi Ahi Nazareth",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1553611|OVER 2.5 + GG|2026-09-24T13:30:00+00:00",
+    "event_id": 1553611,
+    "date": "16:30",
+    "kickoff": "2026-09-24T13:30:00+00:00",
+    "home": "Detonit Plachkovica",
+    "away": "Ohrid",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549794|OVER 2.5 + GG|2026-09-25T00:30:00+00:00",
+    "event_id": 1549794,
+    "date": "03:30",
+    "kickoff": "2026-09-25T00:30:00+00:00",
+    "home": "Atletico Nacional",
+    "away": "Millonarios",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528879|OVER 2.5 + GG|2026-09-24T18:45:00+00:00",
+    "event_id": 1528879,
+    "date": "21:45",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "home": "Kosovo",
+    "away": "Rep. Of Ireland",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612045|OVER 2.5 + GG|2026-09-24T19:00:00+00:00",
+    "event_id": 1612045,
+    "date": "22:00",
+    "kickoff": "2026-09-24T19:00:00+00:00",
+    "home": "Independiente Riva. Res.",
+    "away": "Gimnasia Mendoza 2",
+    "market": "OVER 2.5 + GG",
+    "odds": null,
+    "status": "PENDING"
   }
 ]
