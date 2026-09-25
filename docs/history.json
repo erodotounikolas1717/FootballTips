@@ -1509,5 +1509,181 @@
     "market": "GG",
     "odds": 1.55,
     "status": "PENDING"
+  },
+  {
+    "key": "1595244|OVER 2.5|2026-09-25T14:00:00+00:00",
+    "event_id": 1595244,
+    "date": "17:00",
+    "kickoff": "2026-09-25T14:00:00+00:00",
+    "home": "Uljanik",
+    "away": "Slavonija Požega",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528886|GG|2026-09-25T18:45:00+00:00",
+    "event_id": 1528886,
+    "date": "21:45",
+    "kickoff": "2026-09-25T18:45:00+00:00",
+    "home": "Sweden",
+    "away": "Romania",
+    "market": "GG",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551809|OVER 2.5|2026-09-25T19:00:00+00:00",
+    "event_id": 1551809,
+    "date": "22:00",
+    "kickoff": "2026-09-25T19:00:00+00:00",
+    "home": "Dordrecht",
+    "away": "Almere City FC",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1564875|OVER 2.5|2026-09-25T18:45:00+00:00",
+    "event_id": 1564875,
+    "date": "21:45",
+    "kickoff": "2026-09-25T18:45:00+00:00",
+    "home": "Newry City AFC",
+    "away": "H&W Welders",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1586577|OVER 2.5|2026-09-25T17:30:00+00:00",
+    "event_id": 1586577,
+    "date": "20:30",
+    "kickoff": "2026-09-25T17:30:00+00:00",
+    "home": "Schöningen",
+    "away": "SV Drochtersen/Assel",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511408|OVER 2.5|2026-09-25T17:30:00+00:00",
+    "event_id": 1511408,
+    "date": "20:30",
+    "kickoff": "2026-09-25T17:30:00+00:00",
+    "home": "Dalstorps",
+    "away": "Böljan",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639940|OVER 2.5|2026-09-26T00:00:00+00:00",
+    "event_id": 1639940,
+    "date": "03:00",
+    "kickoff": "2026-09-26T00:00:00+00:00",
+    "home": "Barbados",
+    "away": "St. Lucia",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1640771|GG|2026-09-25T21:30:00+00:00",
+    "event_id": 1640771,
+    "date": "00:30",
+    "kickoff": "2026-09-25T21:30:00+00:00",
+    "home": "General Caballero",
+    "away": "3 de Noviembre",
+    "market": "GG",
+    "odds": 1.96,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492980|OVER 2.5|2026-09-25T18:45:00+00:00",
+    "event_id": 1492980,
+    "date": "21:45",
+    "kickoff": "2026-09-25T18:45:00+00:00",
+    "home": "Cobh Ramblers",
+    "away": "Athlone Town",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1580518|OVER 2.5|2026-09-25T18:45:00+00:00",
+    "event_id": 1580518,
+    "date": "21:45",
+    "kickoff": "2026-09-25T18:45:00+00:00",
+    "home": "Ruthin Town",
+    "away": "Penrhyncoch",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1581433|OVER 2.5|2026-09-26T01:00:00+00:00",
+    "event_id": 1581433,
+    "date": "04:00",
+    "kickoff": "2026-09-26T01:00:00+00:00",
+    "home": "Correcaminos Uat",
+    "away": "CDS Tampico Madero",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1586884|GG|2026-09-25T17:00:00+00:00",
+    "event_id": 1586884,
+    "date": "20:00",
+    "kickoff": "2026-09-25T17:00:00+00:00",
+    "home": "Magdeburg II",
+    "away": "Altglienicke",
+    "market": "GG",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492668|GG|2026-09-25T18:45:00+00:00",
+    "event_id": 1492668,
+    "date": "21:45",
+    "kickoff": "2026-09-25T18:45:00+00:00",
+    "home": "Galway United",
+    "away": "Shelbourne",
+    "market": "GG",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1641722|OVER 2.5|2026-09-25T19:30:00+00:00",
+    "event_id": 1641722,
+    "date": "22:30",
+    "kickoff": "2026-09-25T19:30:00+00:00",
+    "home": "Puerto Cabello II",
+    "away": "Atletico el Vigia FC",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1587173|OVER 2.5|2026-09-25T17:00:00+00:00",
+    "event_id": 1587173,
+    "date": "20:00",
+    "kickoff": "2026-09-25T17:00:00+00:00",
+    "home": "FC Astoria Walldorf",
+    "away": "SV Sandhausen",
+    "market": "OVER 2.5",
+    "odds": 4.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1582335|OVER 2.5|2026-09-25T18:00:00+00:00",
+    "event_id": 1582335,
+    "date": "21:00",
+    "kickoff": "2026-09-25T18:00:00+00:00",
+    "home": "Inter de Minas",
+    "away": "Nacional AC MG",
+    "market": "OVER 2.5",
+    "odds": 1.73,
+    "status": "PENDING"
   }
 ]
