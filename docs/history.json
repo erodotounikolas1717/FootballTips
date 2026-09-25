@@ -1410,5 +1410,104 @@
     "market": "OVER 2.5 + GG",
     "odds": null,
     "status": "PENDING"
+  },
+  {
+    "key": "1496701|OVER 2.5|2026-09-25T16:00:00+00:00",
+    "event_id": 1496701,
+    "date": "19:00",
+    "kickoff": "2026-09-25T16:00:00+00:00",
+    "home": "Aalesund II",
+    "away": "Rosenborg II",
+    "market": "OVER 2.5",
+    "odds": 1.2,
+    "status": "PENDING"
+  },
+  {
+    "key": "1638167|GG|2026-09-25T16:00:00+00:00",
+    "event_id": 1638167,
+    "date": "19:00",
+    "kickoff": "2026-09-25T16:00:00+00:00",
+    "home": "Tampere United",
+    "away": "JJK",
+    "market": "GG",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1575800|OVER 2.5|2026-09-25T17:00:00+00:00",
+    "event_id": 1575800,
+    "date": "20:00",
+    "kickoff": "2026-09-25T17:00:00+00:00",
+    "home": "HIK",
+    "away": "Roskilde",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1569111|OVER 2.5|2026-09-25T14:00:00+00:00",
+    "event_id": 1569111,
+    "date": "17:00",
+    "kickoff": "2026-09-25T14:00:00+00:00",
+    "home": "Wisła Płock II",
+    "away": "Jagiellonia II",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579122|OVER 2.5|2026-09-25T14:15:00+00:00",
+    "event_id": 1579122,
+    "date": "17:15",
+    "kickoff": "2026-09-25T14:15:00+00:00",
+    "home": "Tatran Bohunice",
+    "away": "Sparta Brno",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511410|GG|2026-09-25T17:00:00+00:00",
+    "event_id": 1511410,
+    "date": "20:00",
+    "kickoff": "2026-09-25T17:00:00+00:00",
+    "home": "Landvetter IS",
+    "away": "Torslanda",
+    "market": "GG",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1565912|OVER 2.5|2026-09-25T13:00:00+00:00",
+    "event_id": 1565912,
+    "date": "16:00",
+    "kickoff": "2026-09-25T13:00:00+00:00",
+    "home": "Slávia TU Košice",
+    "away": "Spartak Medzev",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511023|OVER 2.5|2026-09-25T17:00:00+00:00",
+    "event_id": 1511023,
+    "date": "20:00",
+    "kickoff": "2026-09-25T17:00:00+00:00",
+    "home": "Räppe",
+    "away": "Växjö Norra",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1561141|GG|2026-09-25T14:30:00+00:00",
+    "event_id": 1561141,
+    "date": "17:30",
+    "kickoff": "2026-09-25T14:30:00+00:00",
+    "home": "Pohronie",
+    "away": "Inter Bratislava",
+    "market": "GG",
+    "odds": 1.55,
+    "status": "PENDING"
   }
 ]
