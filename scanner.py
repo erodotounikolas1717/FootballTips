@@ -1861,7 +1861,7 @@ def select_picks(results):
 
     main_matches = []
 
-    for q in qualified:
+    for q in qualified[:10]:
         main_matches.append({
             "result": q,
             "main_market": q.get("market", ""),
