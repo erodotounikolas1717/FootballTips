@@ -265,8 +265,48 @@ def send_telegram(message):
     chat_id = get_chat_id()
     if not TELEGRAM_BOT_TOKEN or not chat_id:
         return False
-    result = telegram_post("sendMessage", {"chat_id": chat_id, "text": message, "parse_mode": "HTML", "disable_web_page_preview": "true"})
-    return bool(result and result.get("ok"))
+
+    # Telegram message limit is 4096 characters.
+    # Split only between complete lines so picks are never cut in half.
+    max_len = 3800
+    chunks = []
+    current = ""
+
+    for line in str(message).splitlines():
+        candidate = line if not current else current + "\n" + line
+
+        if len(candidate) <= max_len:
+            current = candidate
+        else:
+            if current:
+                chunks.append(current)
+            current = line
+
+            # Extremely long single line: hard-split safely.
+            while len(current) > max_len:
+                chunks.append(current[:max_len])
+                current = current[max_len:]
+
+    if current:
+        chunks.append(current)
+
+    for chunk in chunks:
+        result = telegram_post(
+            "sendMessage",
+            {
+                "chat_id": chat_id,
+                "text": chunk,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": "true",
+            },
+        )
+
+        if not result or not result.get("ok"):
+            print("❌ Telegram chunk failed")
+            return False
+
+    print(f"✅ Telegram: {len(chunks)} message(s) sent")
+    return True
 def broadcast_telegram(message):
     if not ACCESS_WORKER_URL or not BROADCAST_SECRET:
         return False
