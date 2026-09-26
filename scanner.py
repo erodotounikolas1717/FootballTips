@@ -2094,14 +2094,20 @@ def main():
 
     picks = selection.get("main") or []
 
-    # Chronological order — Cyprus time
+    # Chronological order — actual kickoff time in Cyprus
+    cyprus_tz = ZoneInfo("Europe/Nicosia")
+
     def _pick_time(x):
-        t = str(x.get("time", "23:59"))
+        raw = x.get("time") or x.get("event_date") or x.get("start_time") or ""
         try:
-            h, m = t[:5].split(":")
-            return int(h) * 60 + int(m)
+            dt = datetime.fromisoformat(
+                str(raw).replace("Z", "+00:00")
+            )
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=ZoneInfo("UTC"))
+            return dt.astimezone(cyprus_tz)
         except Exception:
-            return 1439
+            return datetime.max.replace(tzinfo=cyprus_tz)
 
     picks = sorted(picks, key=_pick_time)
 
