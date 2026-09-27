@@ -3049,5 +3049,115 @@
     "market": "GG",
     "odds": 1.5,
     "status": "PENDING"
+  },
+  {
+    "key": "1579957|GG|2026-09-27T13:00:00+00:00",
+    "event_id": 1579957,
+    "date": "16:00",
+    "kickoff": "2026-09-27T13:00:00+00:00",
+    "home": "Oud-Heverlee Leuven II",
+    "away": "Lyra-Lierse Berlaar",
+    "market": "GG",
+    "odds": 1.35,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579245|OVER 2.5|2026-09-27T08:15:00+00:00",
+    "event_id": 1579245,
+    "date": "11:15",
+    "kickoff": "2026-09-27T08:15:00+00:00",
+    "home": "Brumov",
+    "away": "Sokol Lanžhot",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1637649|OVER 2.5|2026-09-27T08:30:00+00:00",
+    "event_id": 1637649,
+    "date": "11:30",
+    "kickoff": "2026-09-27T08:30:00+00:00",
+    "home": "RANS Nusantara",
+    "away": "Deltras",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496155|OVER 2.5|2026-09-27T11:00:00+00:00",
+    "event_id": 1496155,
+    "date": "14:00",
+    "kickoff": "2026-09-27T11:00:00+00:00",
+    "home": "Arendal",
+    "away": "Brattvåg",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1568804|GG|2026-09-27T12:00:00+00:00",
+    "event_id": 1568804,
+    "date": "15:00",
+    "kickoff": "2026-09-27T12:00:00+00:00",
+    "home": "Kalisz",
+    "away": "Kluczevia Stargard",
+    "market": "GG",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1587486|OVER 2.5|2026-09-27T12:00:00+00:00",
+    "event_id": 1587486,
+    "date": "15:00",
+    "kickoff": "2026-09-27T12:00:00+00:00",
+    "home": "Rot-weiss Oberhausen",
+    "away": "SV Rodinghausen",
+    "market": "OVER 2.5",
+    "odds": 4.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1618360|OVER 2.5|2026-09-27T12:00:00+00:00",
+    "event_id": 1618360,
+    "date": "15:00",
+    "kickoff": "2026-09-27T12:00:00+00:00",
+    "home": "Hollandia",
+    "away": "Hercules",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551816|OVER 2.5|2026-09-27T12:30:00+00:00",
+    "event_id": 1551816,
+    "date": "15:30",
+    "kickoff": "2026-09-27T12:30:00+00:00",
+    "home": "De Graafschap",
+    "away": "Den Bosch",
+    "market": "OVER 2.5",
+    "odds": 1.25,
+    "status": "PENDING"
+  },
+  {
+    "key": "1568184|OVER 2.5|2026-09-27T13:00:00+00:00",
+    "event_id": 1568184,
+    "date": "16:00",
+    "kickoff": "2026-09-27T13:00:00+00:00",
+    "home": "Moravia Morawica",
+    "away": "Jarosław",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1586572|OVER 2.5|2026-09-27T13:00:00+00:00",
+    "event_id": 1586572,
+    "date": "16:00",
+    "kickoff": "2026-09-27T13:00:00+00:00",
+    "home": "Bremer SV",
+    "away": "Weiche Flensburg",
+    "market": "OVER 2.5",
+    "odds": 4.0,
+    "status": "PENDING"
   }
 ]
