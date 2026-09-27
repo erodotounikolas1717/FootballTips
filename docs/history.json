@@ -3159,5 +3159,93 @@
     "market": "OVER 2.5",
     "odds": 4.0,
     "status": "PENDING"
+  },
+  {
+    "key": "1572063|OVER 2.5|2026-09-27T15:00:00+00:00",
+    "event_id": 1572063,
+    "date": "18:00",
+    "kickoff": "2026-09-27T15:00:00+00:00",
+    "home": "Marino de Luanco",
+    "away": "Basconia",
+    "market": "OVER 2.5",
+    "odds": 2.08,
+    "status": "PENDING"
+  },
+  {
+    "key": "1608293|GG|2026-09-27T15:30:00+00:00",
+    "event_id": 1608293,
+    "date": "18:30",
+    "kickoff": "2026-09-27T15:30:00+00:00",
+    "home": "Athletic Carpi",
+    "away": "Arzignano Valchiampo",
+    "market": "GG",
+    "odds": 1.83,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528897|GG|2026-09-27T16:00:00+00:00",
+    "event_id": 1528897,
+    "date": "19:00",
+    "kickoff": "2026-09-27T16:00:00+00:00",
+    "home": "Denmark",
+    "away": "Wales",
+    "market": "GG",
+    "odds": 1.83,
+    "status": "PENDING"
+  },
+  {
+    "key": "1591314|OVER 2.5|2026-09-27T16:00:00+00:00",
+    "event_id": 1591314,
+    "date": "19:00",
+    "kickoff": "2026-09-27T16:00:00+00:00",
+    "home": "Adana Demirspor",
+    "away": "Erbaaspor",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1573289|OVER 2.5|2026-09-27T15:00:00+00:00",
+    "event_id": 1573289,
+    "date": "18:00",
+    "kickoff": "2026-09-27T15:00:00+00:00",
+    "home": "Salamanca UDS",
+    "away": "RSD Alcalá",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496338|OVER 2.5|2026-09-27T15:30:00+00:00",
+    "event_id": 1496338,
+    "date": "18:30",
+    "kickoff": "2026-09-27T15:30:00+00:00",
+    "home": "Hønefoss",
+    "away": "Tromsdalen Uil",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1572977|OVER 2.5|2026-09-27T16:00:00+00:00",
+    "event_id": 1572977,
+    "date": "19:00",
+    "kickoff": "2026-09-27T16:00:00+00:00",
+    "home": "Puente Genil",
+    "away": "Marbella",
+    "market": "OVER 2.5",
+    "odds": 2.1,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612734|OVER 2.5|2026-09-27T16:00:00+00:00",
+    "event_id": 1612734,
+    "date": "19:00",
+    "kickoff": "2026-09-27T16:00:00+00:00",
+    "home": "Celtiga",
+    "away": "Estradense",
+    "market": "OVER 2.5",
+    "odds": 2.15,
+    "status": "PENDING"
   }
 ]
