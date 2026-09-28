@@ -31,7 +31,6 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: |
-          echo "API_FOOTBALL_KEY length: ${#API_FOOTBALL_KEY}"
           python update_history.py
 
       - name: Save history
