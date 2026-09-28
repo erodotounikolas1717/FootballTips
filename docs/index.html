@@ -194,16 +194,16 @@ function render(){
     const sa = String(a.status || '').toUpperCase();
     const sb = String(b.status || '').toUpperCase();
 
-    // Pending matches first, then finished results.
+    // PENDING first.
     if(sa === 'PENDING' && sb !== 'PENDING') return -1;
     if(sb === 'PENDING' && sa !== 'PENDING') return 1;
 
-    // Within each group, keep chronological order.
+    // Newest picks first.
     if(Number.isNaN(da) && Number.isNaN(db)) return 0;
     if(Number.isNaN(da)) return 1;
     if(Number.isNaN(db)) return -1;
 
-    return da - db;
+    return db - da;
   });
 
   const rows = document.getElementById('rows');
