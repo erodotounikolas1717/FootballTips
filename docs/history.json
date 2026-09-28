@@ -3666,7 +3666,9 @@
     "away": "Dravinja",
     "market": "OVER 2.5",
     "odds": 1.6,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1555161|OVER 2.5|2026-09-28T16:45:00+00:00",
@@ -3677,7 +3679,9 @@
     "away": "Hapoel Ra'anana",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1639960|OVER 2.5|2026-09-29T00:00:00+00:00",
