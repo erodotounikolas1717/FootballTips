@@ -3644,7 +3644,9 @@
     "away": "Poland",
     "market": "OVER 2.5",
     "odds": 1.7,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1640776|GG|2026-09-28T20:00:00+00:00",
@@ -3716,7 +3718,9 @@
     "away": "Barbados",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1632017|OVER 2.5|2026-09-28T19:30:00+00:00",
