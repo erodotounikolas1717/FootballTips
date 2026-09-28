@@ -191,6 +191,14 @@ function render(){
     const da = new Date(kickoff(a)).getTime();
     const db = new Date(kickoff(b)).getTime();
 
+    const sa = String(a.status || '').toUpperCase();
+    const sb = String(b.status || '').toUpperCase();
+
+    // Pending matches first, then finished results.
+    if(sa === 'PENDING' && sb !== 'PENDING') return -1;
+    if(sb === 'PENDING' && sa !== 'PENDING') return 1;
+
+    // Within each group, keep chronological order.
     if(Number.isNaN(da) && Number.isNaN(db)) return 0;
     if(Number.isNaN(da)) return 1;
     if(Number.isNaN(db)) return -1;
