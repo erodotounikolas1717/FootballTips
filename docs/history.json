@@ -3657,7 +3657,9 @@
     "away": "Paraguari AC",
     "market": "GG",
     "odds": 1.64,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1558948|OVER 2.5|2026-09-28T17:00:00+00:00",
@@ -3731,6 +3733,8 @@
     "away": "Deportivo Recoleta",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   }
 ]
