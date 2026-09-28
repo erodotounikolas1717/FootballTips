@@ -3247,5 +3247,104 @@
     "market": "OVER 2.5",
     "odds": 2.15,
     "status": "PENDING"
+  },
+  {
+    "key": "1497433|OVER 2.5|2026-09-28T16:00:00+00:00",
+    "event_id": 1497433,
+    "date": "19:00",
+    "kickoff": "2026-09-28T16:00:00+00:00",
+    "home": "Raelingen",
+    "away": "Lyn II",
+    "market": "OVER 2.5",
+    "odds": 1.2,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528907|OVER 2.5|2026-09-28T18:45:00+00:00",
+    "event_id": 1528907,
+    "date": "21:45",
+    "kickoff": "2026-09-28T18:45:00+00:00",
+    "home": "Sweden",
+    "away": "Poland",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1640776|GG|2026-09-28T20:00:00+00:00",
+    "event_id": 1640776,
+    "date": "23:00",
+    "kickoff": "2026-09-28T20:00:00+00:00",
+    "home": "Atlético Tembetary",
+    "away": "Paraguari AC",
+    "market": "GG",
+    "odds": 1.64,
+    "status": "PENDING"
+  },
+  {
+    "key": "1558948|OVER 2.5|2026-09-28T17:00:00+00:00",
+    "event_id": 1558948,
+    "date": "20:00",
+    "kickoff": "2026-09-28T17:00:00+00:00",
+    "home": "Rudar",
+    "away": "Dravinja",
+    "market": "OVER 2.5",
+    "odds": 1.6,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555161|OVER 2.5|2026-09-28T16:45:00+00:00",
+    "event_id": 1555161,
+    "date": "19:45",
+    "kickoff": "2026-09-28T16:45:00+00:00",
+    "home": "Maccabi Bnei Raina",
+    "away": "Hapoel Ra'anana",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639960|OVER 2.5|2026-09-29T00:00:00+00:00",
+    "event_id": 1639960,
+    "date": "03:00",
+    "kickoff": "2026-09-29T00:00:00+00:00",
+    "home": "St. Lucia",
+    "away": "Bermuda",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1554173|GG|2026-09-28T16:00:00+00:00",
+    "event_id": 1554173,
+    "date": "19:00",
+    "kickoff": "2026-09-28T16:00:00+00:00",
+    "home": "Naftagas",
+    "away": "Jedinstvo Ub",
+    "market": "GG",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639955|OVER 2.5|2026-09-28T19:00:00+00:00",
+    "event_id": 1639955,
+    "date": "22:00",
+    "kickoff": "2026-09-28T19:00:00+00:00",
+    "home": "Guadeloupe",
+    "away": "Barbados",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1632017|OVER 2.5|2026-09-28T19:30:00+00:00",
+    "event_id": 1632017,
+    "date": "22:30",
+    "kickoff": "2026-09-28T19:30:00+00:00",
+    "home": "Club Sp. San Lorenzo",
+    "away": "Deportivo Recoleta",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
   }
 ]
