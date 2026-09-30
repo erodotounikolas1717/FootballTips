@@ -3900,7 +3900,9 @@
     "away": "Farroupilha",
     "market": "OVER 2.5",
     "odds": 1.65,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 0.0
   },
   {
     "key": "1549493|OVER 2.5|2026-09-30T20:00:00+00:00",
@@ -3922,7 +3924,9 @@
     "away": "Heist",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1579960|OVER 2.5|2026-09-30T18:00:00+00:00",
@@ -3933,7 +3937,9 @@
     "away": "Knokke",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1612067|OVER 2.5|2026-09-30T18:00:00+00:00",
@@ -3944,7 +3950,9 @@
     "away": "Unión Santa Fe Res.",
     "market": "OVER 2.5",
     "odds": 2.15,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1493718|OVER 2.5|2026-09-30T23:00:00+00:00",
