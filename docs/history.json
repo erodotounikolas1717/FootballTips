@@ -3876,7 +3876,9 @@
     "away": "Ulaanbaatar",
     "market": "OVER 2.5",
     "odds": 1.05,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "1595988|OVER 2.5|2026-09-30T18:45:00+00:00",
