@@ -3967,5 +3967,27 @@
     "market": "GG",
     "odds": 1.62,
     "status": "PENDING"
+  },
+  {
+    "key": "1493717|GG|2026-10-01T00:00:00+00:00",
+    "event_id": 1493717,
+    "date": "03:00",
+    "kickoff": "2026-10-01T00:00:00+00:00",
+    "home": "FC Tulsa",
+    "away": "New Mexico United",
+    "market": "GG",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579956|OVER 2.5|2026-09-30T18:30:00+00:00",
+    "event_id": 1579956,
+    "date": "21:30",
+    "kickoff": "2026-09-30T18:30:00+00:00",
+    "home": "Harelbeke",
+    "away": "Hoogstraten",
+    "market": "OVER 2.5",
+    "odds": 1.65,
+    "status": "PENDING"
   }
 ]
