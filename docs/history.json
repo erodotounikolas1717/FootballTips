@@ -3866,5 +3866,104 @@
     "status": "LOSS",
     "home_score": 1.0,
     "away_score": 1.0
+  },
+  {
+    "key": "1640417|OVER 2.5|2026-09-30T08:00:00+00:00",
+    "event_id": 1640417,
+    "date": "11:00",
+    "kickoff": "2026-09-30T08:00:00+00:00",
+    "home": "Khovd",
+    "away": "Ulaanbaatar",
+    "market": "OVER 2.5",
+    "odds": 1.05,
+    "status": "PENDING"
+  },
+  {
+    "key": "1595988|OVER 2.5|2026-09-30T18:45:00+00:00",
+    "event_id": 1595988,
+    "date": "21:45",
+    "kickoff": "2026-09-30T18:45:00+00:00",
+    "home": "Whyteleafe",
+    "away": "Brentwood Town",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1630322|OVER 2.5|2026-09-30T18:00:00+00:00",
+    "event_id": 1630322,
+    "date": "21:00",
+    "kickoff": "2026-09-30T18:00:00+00:00",
+    "home": "Real",
+    "away": "Farroupilha",
+    "market": "OVER 2.5",
+    "odds": 1.65,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549493|OVER 2.5|2026-09-30T20:00:00+00:00",
+    "event_id": 1549493,
+    "date": "23:00",
+    "kickoff": "2026-09-30T20:00:00+00:00",
+    "home": "Cienciano",
+    "away": "Club Deportivo Los Chankas",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579954|OVER 2.5|2026-09-30T18:00:00+00:00",
+    "event_id": 1579954,
+    "date": "21:00",
+    "kickoff": "2026-09-30T18:00:00+00:00",
+    "home": "Spouwen-Mopertingen",
+    "away": "Heist",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579960|OVER 2.5|2026-09-30T18:00:00+00:00",
+    "event_id": 1579960,
+    "date": "21:00",
+    "kickoff": "2026-09-30T18:00:00+00:00",
+    "home": "Zelzate",
+    "away": "Knokke",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612067|OVER 2.5|2026-09-30T18:00:00+00:00",
+    "event_id": 1612067,
+    "date": "21:00",
+    "kickoff": "2026-09-30T18:00:00+00:00",
+    "home": "Rosario Central Res.",
+    "away": "Unión Santa Fe Res.",
+    "market": "OVER 2.5",
+    "odds": 2.15,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493718|OVER 2.5|2026-09-30T23:00:00+00:00",
+    "event_id": 1493718,
+    "date": "02:00",
+    "kickoff": "2026-09-30T23:00:00+00:00",
+    "home": "Miami FC",
+    "away": "Sporting JAX",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1585268|GG|2026-09-30T18:45:00+00:00",
+    "event_id": 1585268,
+    "date": "21:45",
+    "kickoff": "2026-09-30T18:45:00+00:00",
+    "home": "Tamworth",
+    "away": "Sutton Utd",
+    "market": "GG",
+    "odds": 1.62,
+    "status": "PENDING"
   }
 ]
