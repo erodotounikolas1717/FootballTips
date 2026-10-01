@@ -4009,5 +4009,93 @@
     "status": "WIN",
     "home_score": 3.0,
     "away_score": 3.0
+  },
+  {
+    "key": "1555167|OVER 2.5|2026-10-01T16:00:00+00:00",
+    "event_id": 1555167,
+    "date": "19:00",
+    "kickoff": "2026-10-01T16:00:00+00:00",
+    "home": "Maccabi Bnei Raina",
+    "away": "Hapoel Kfar Shalem",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555166|OVER 2.5|2026-10-01T16:00:00+00:00",
+    "event_id": 1555166,
+    "date": "19:00",
+    "kickoff": "2026-10-01T16:00:00+00:00",
+    "home": "Kiryat Yam SC",
+    "away": "Hapoel Kfar Saba",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639970|OVER 2.5|2026-10-01T22:00:00+00:00",
+    "event_id": 1639970,
+    "date": "01:00",
+    "kickoff": "2026-10-01T22:00:00+00:00",
+    "home": "Curaçao",
+    "away": "Trinidad and Tobago",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1520900|OVER 2.5|2026-10-01T23:30:00+00:00",
+    "event_id": 1520900,
+    "date": "02:30",
+    "kickoff": "2026-10-01T23:30:00+00:00",
+    "home": "Athletic Club",
+    "away": "Sport Recife",
+    "market": "OVER 2.5",
+    "odds": 2.15,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555164|OVER 2.5|2026-10-01T16:00:00+00:00",
+    "event_id": 1555164,
+    "date": "19:00",
+    "kickoff": "2026-10-01T16:00:00+00:00",
+    "home": "Hapoel Afula",
+    "away": "Hapoel Rishon LeZion",
+    "market": "OVER 2.5",
+    "odds": 1.65,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639973|OVER 2.5|2026-10-02T00:00:00+00:00",
+    "event_id": 1639973,
+    "date": "03:00",
+    "kickoff": "2026-10-02T00:00:00+00:00",
+    "home": "Dominican Republic",
+    "away": "Haiti",
+    "market": "OVER 2.5",
+    "odds": 1.6,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528922|OVER 2.5|2026-10-01T18:45:00+00:00",
+    "event_id": 1528922,
+    "date": "21:45",
+    "kickoff": "2026-10-01T18:45:00+00:00",
+    "home": "Israel",
+    "away": "Kosovo",
+    "market": "OVER 2.5",
+    "odds": 1.9,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490463|GG|2026-10-02T01:30:00+00:00",
+    "event_id": 1490463,
+    "date": "04:30",
+    "kickoff": "2026-10-02T01:30:00+00:00",
+    "home": "Seattle Sounders",
+    "away": "Sporting Kansas City",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
   }
 ]
