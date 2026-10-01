@@ -4019,7 +4019,9 @@
     "away": "Hapoel Kfar Shalem",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1555166|OVER 2.5|2026-10-01T16:00:00+00:00",
@@ -4030,7 +4032,9 @@
     "away": "Hapoel Kfar Saba",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1639970|OVER 2.5|2026-10-01T22:00:00+00:00",
@@ -4063,7 +4067,9 @@
     "away": "Hapoel Rishon LeZion",
     "market": "OVER 2.5",
     "odds": 1.65,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1639973|OVER 2.5|2026-10-02T00:00:00+00:00",
