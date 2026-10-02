@@ -4123,7 +4123,9 @@
     "away": "Galtabacks",
     "market": "GG",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 3.0
   },
   {
     "key": "1511418|GG|2026-10-02T17:00:00+00:00",
@@ -4134,7 +4136,9 @@
     "away": "Kongahälla",
     "market": "GG",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1497073|OVER 2.5|2026-10-02T16:00:00+00:00",
@@ -4158,7 +4162,9 @@
     "away": "Egersund",
     "market": "GG",
     "odds": 1.3,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 5.0,
+    "away_score": 0.0
   },
   {
     "key": "1511066|OVER 2.5|2026-10-02T17:00:00+00:00",
@@ -4169,7 +4175,9 @@
     "away": "Nosaby",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "1568509|OVER 2.5|2026-10-02T17:00:00+00:00",
@@ -4180,7 +4188,9 @@
     "away": "Miedź Legnica II",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1511417|GG|2026-10-02T17:30:00+00:00",
@@ -4191,7 +4201,9 @@
     "away": "Landvetter IS",
     "market": "GG",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1492777|OVER 2.5|2026-10-02T18:45:00+00:00",
