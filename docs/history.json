@@ -4145,7 +4145,9 @@
     "away": "Staal Jørpeland",
     "market": "OVER 2.5",
     "odds": 1.2,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "1495963|GG|2026-10-02T17:00:00+00:00",
