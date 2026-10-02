@@ -4058,7 +4058,9 @@
     "away": "Sport Recife",
     "market": "OVER 2.5",
     "odds": 2.15,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1555164|OVER 2.5|2026-10-01T16:00:00+00:00",
@@ -4082,7 +4084,9 @@
     "away": "Haiti",
     "market": "OVER 2.5",
     "odds": 1.6,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   },
   {
     "key": "1528922|OVER 2.5|2026-10-01T18:45:00+00:00",
