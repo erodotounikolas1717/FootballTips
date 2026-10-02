@@ -4223,5 +4223,16 @@
     "market": "OVER 2.5",
     "odds": 1.62,
     "status": "PENDING"
+  },
+  {
+    "key": "1534465|OVER 2.5|2026-10-02T14:30:00+00:00",
+    "event_id": 1534465,
+    "date": "17:30",
+    "kickoff": "2026-10-02T14:30:00+00:00",
+    "home": "Volna",
+    "away": "Lida",
+    "market": "OVER 2.5",
+    "odds": 1.33,
+    "status": "PENDING"
   }
 ]
