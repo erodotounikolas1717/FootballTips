@@ -4214,7 +4214,9 @@
     "away": "Bohemians",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1639975|OVER 2.5|2026-10-02T19:00:00+00:00",
@@ -4225,7 +4227,9 @@
     "away": "Guadeloupe",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1639978|OVER 2.5|2026-10-03T00:00:00+00:00",
