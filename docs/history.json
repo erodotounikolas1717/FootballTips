@@ -4113,5 +4113,115 @@
     "status": "WIN",
     "home_score": 2.0,
     "away_score": 1.0
+  },
+  {
+    "key": "1511415|GG|2026-10-02T17:00:00+00:00",
+    "event_id": 1511415,
+    "date": "20:00",
+    "kickoff": "2026-10-02T17:00:00+00:00",
+    "home": "Lindome",
+    "away": "Galtabacks",
+    "market": "GG",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511418|GG|2026-10-02T17:00:00+00:00",
+    "event_id": 1511418,
+    "date": "20:00",
+    "kickoff": "2026-10-02T17:00:00+00:00",
+    "home": "Torslanda",
+    "away": "Kongahälla",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1497073|OVER 2.5|2026-10-02T16:00:00+00:00",
+    "event_id": 1497073,
+    "date": "19:00",
+    "kickoff": "2026-10-02T16:00:00+00:00",
+    "home": "Hinna",
+    "away": "Staal Jørpeland",
+    "market": "OVER 2.5",
+    "odds": 1.2,
+    "status": "PENDING"
+  },
+  {
+    "key": "1495963|GG|2026-10-02T17:00:00+00:00",
+    "event_id": 1495963,
+    "date": "20:00",
+    "kickoff": "2026-10-02T17:00:00+00:00",
+    "home": "Ranheim",
+    "away": "Egersund",
+    "market": "GG",
+    "odds": 1.3,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511066|OVER 2.5|2026-10-02T17:00:00+00:00",
+    "event_id": 1511066,
+    "date": "20:00",
+    "kickoff": "2026-10-02T17:00:00+00:00",
+    "home": "Lilla Torg",
+    "away": "Nosaby",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1568509|OVER 2.5|2026-10-02T17:00:00+00:00",
+    "event_id": 1568509,
+    "date": "20:00",
+    "kickoff": "2026-10-02T17:00:00+00:00",
+    "home": "Polonia Nysa",
+    "away": "Miedź Legnica II",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511417|GG|2026-10-02T17:30:00+00:00",
+    "event_id": 1511417,
+    "date": "20:30",
+    "kickoff": "2026-10-02T17:30:00+00:00",
+    "home": "Qviding FIF",
+    "away": "Landvetter IS",
+    "market": "GG",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492777|OVER 2.5|2026-10-02T18:45:00+00:00",
+    "event_id": 1492777,
+    "date": "21:45",
+    "kickoff": "2026-10-02T18:45:00+00:00",
+    "home": "Dundalk",
+    "away": "Bohemians",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639975|OVER 2.5|2026-10-02T19:00:00+00:00",
+    "event_id": 1639975,
+    "date": "22:00",
+    "kickoff": "2026-10-02T19:00:00+00:00",
+    "home": "St. Lucia",
+    "away": "Guadeloupe",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639978|OVER 2.5|2026-10-03T00:00:00+00:00",
+    "event_id": 1639978,
+    "date": "03:00",
+    "kickoff": "2026-10-03T00:00:00+00:00",
+    "home": "Barbados",
+    "away": "Bermuda",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
   }
 ]
