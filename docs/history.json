@@ -4288,7 +4288,9 @@
     "away": "Břidličná",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1579130|OVER 2.5|2026-10-03T08:30:00+00:00",
@@ -4343,7 +4345,9 @@
     "away": "Osaka",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1569122|GG|2026-10-03T15:00:00+00:00",
