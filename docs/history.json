@@ -4380,5 +4380,115 @@
     "market": "OVER 2.5",
     "odds": 1.44,
     "status": "PENDING"
+  },
+  {
+    "key": "1494023|GG|2026-10-03T23:30:00+00:00",
+    "event_id": 1494023,
+    "date": "02:30",
+    "kickoff": "2026-10-03T23:30:00+00:00",
+    "home": "Sarasota Paradise",
+    "away": "Charlotte Independence",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1581438|OVER 2.5|2026-10-04T01:00:00+00:00",
+    "event_id": 1581438,
+    "date": "04:00",
+    "kickoff": "2026-10-04T01:00:00+00:00",
+    "home": "Cancún",
+    "away": "Tapatío",
+    "market": "OVER 2.5",
+    "odds": 1.65,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494018|OVER 2.5|2026-10-03T19:00:00+00:00",
+    "event_id": 1494018,
+    "date": "22:00",
+    "kickoff": "2026-10-03T19:00:00+00:00",
+    "home": "Boise",
+    "away": "Greenville Triumph",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1631751|OVER 2.5|2026-10-03T22:00:00+00:00",
+    "event_id": 1631751,
+    "date": "01:00",
+    "kickoff": "2026-10-03T22:00:00+00:00",
+    "home": "Artesanos Metepec",
+    "away": "Cañoneros Marina",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1641862|OVER 2.5|2026-10-03T20:30:00+00:00",
+    "event_id": 1641862,
+    "date": "23:30",
+    "kickoff": "2026-10-03T20:30:00+00:00",
+    "home": "Fundación Lara Deportiva",
+    "away": "Atletico el Vigia FC",
+    "market": "OVER 2.5",
+    "odds": 5.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1635983|GG|2026-10-03T21:30:00+00:00",
+    "event_id": 1635983,
+    "date": "00:30",
+    "kickoff": "2026-10-03T21:30:00+00:00",
+    "home": "Pioneros de Cancún",
+    "away": "Montañeses",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493727|OVER 2.5|2026-10-03T23:00:00+00:00",
+    "event_id": 1493727,
+    "date": "02:00",
+    "kickoff": "2026-10-03T23:00:00+00:00",
+    "home": "Lexington",
+    "away": "El Paso Locomotive",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494025|OVER 2.5|2026-10-03T23:00:00+00:00",
+    "event_id": 1494025,
+    "date": "02:00",
+    "kickoff": "2026-10-03T23:00:00+00:00",
+    "home": "Westchester SC",
+    "away": "Alta",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639024|OVER 2.5|2026-10-04T00:00:00+00:00",
+    "event_id": 1639024,
+    "date": "03:00",
+    "kickoff": "2026-10-04T00:00:00+00:00",
+    "home": "Auckland United",
+    "away": "Napier City Rovers",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492310|GG|2026-10-03T21:30:00+00:00",
+    "event_id": 1492310,
+    "date": "00:30",
+    "kickoff": "2026-10-03T21:30:00+00:00",
+    "home": "Atletico-MG",
+    "away": "RB Bragantino",
+    "market": "GG",
+    "odds": 1.67,
+    "status": "PENDING"
   }
 ]
