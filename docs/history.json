@@ -4256,5 +4256,115 @@
     "status": "LOSS",
     "home_score": 0.0,
     "away_score": 2.0
+  },
+  {
+    "key": "1521705|GG|2026-10-03T09:30:00+00:00",
+    "event_id": 1521705,
+    "date": "12:30",
+    "kickoff": "2026-10-03T09:30:00+00:00",
+    "home": "Tulevik",
+    "away": "Tallinna Kalev II",
+    "market": "GG",
+    "odds": 1.14,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496714|GG|2026-10-03T11:00:00+00:00",
+    "event_id": 1496714,
+    "date": "14:00",
+    "kickoff": "2026-10-03T11:00:00+00:00",
+    "home": "Volda",
+    "away": "Orkla",
+    "market": "GG",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579370|OVER 2.5|2026-10-03T08:15:00+00:00",
+    "event_id": 1579370,
+    "date": "11:15",
+    "kickoff": "2026-10-03T08:15:00+00:00",
+    "home": "Vratimov",
+    "away": "Břidličná",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579130|OVER 2.5|2026-10-03T08:30:00+00:00",
+    "event_id": 1579130,
+    "date": "11:30",
+    "kickoff": "2026-10-03T08:30:00+00:00",
+    "home": "Sparta Brno",
+    "away": "Ždírec nad Doubravou",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496527|OVER 2.5|2026-10-03T11:00:00+00:00",
+    "event_id": 1496527,
+    "date": "14:00",
+    "kickoff": "2026-10-03T11:00:00+00:00",
+    "home": "Frigg",
+    "away": "Gamle Oslo",
+    "market": "OVER 2.5",
+    "odds": 1.14,
+    "status": "PENDING"
+  },
+  {
+    "key": "1505287|OVER 2.5|2026-10-03T11:00:00+00:00",
+    "event_id": 1505287,
+    "date": "14:00",
+    "kickoff": "2026-10-03T11:00:00+00:00",
+    "home": "Stockholm Internazionale",
+    "away": "Assyriska FF",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1572067|OVER 2.5|2026-10-03T15:00:00+00:00",
+    "event_id": 1572067,
+    "date": "18:00",
+    "kickoff": "2026-10-03T15:00:00+00:00",
+    "home": "Basconia",
+    "away": "Llanera",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555729|OVER 2.5|2026-10-03T08:00:00+00:00",
+    "event_id": 1555729,
+    "date": "11:00",
+    "kickoff": "2026-10-03T08:00:00+00:00",
+    "home": "Sagamihara",
+    "away": "Osaka",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1569122|GG|2026-10-03T15:00:00+00:00",
+    "event_id": 1569122,
+    "date": "18:00",
+    "kickoff": "2026-10-03T15:00:00+00:00",
+    "home": "Wigry Suwałki",
+    "away": "Wisła Płock II",
+    "market": "GG",
+    "odds": 1.45,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551820|OVER 2.5|2026-10-03T14:30:00+00:00",
+    "event_id": 1551820,
+    "date": "17:30",
+    "kickoff": "2026-10-03T14:30:00+00:00",
+    "home": "Vitesse",
+    "away": "NAC Breda",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
   }
 ]
