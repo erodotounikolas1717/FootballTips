@@ -4240,7 +4240,9 @@
     "away": "Bermuda",
     "market": "OVER 2.5",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1534465|OVER 2.5|2026-10-02T14:30:00+00:00",
