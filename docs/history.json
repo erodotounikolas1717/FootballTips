@@ -4266,7 +4266,9 @@
     "away": "Tallinna Kalev II",
     "market": "GG",
     "odds": 1.14,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1496714|GG|2026-10-03T11:00:00+00:00",
@@ -4277,7 +4279,9 @@
     "away": "Orkla",
     "market": "GG",
     "odds": 1.73,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1579370|OVER 2.5|2026-10-03T08:15:00+00:00",
@@ -4301,7 +4305,9 @@
     "away": "Ždírec nad Doubravou",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1496527|OVER 2.5|2026-10-03T11:00:00+00:00",
@@ -4312,7 +4318,9 @@
     "away": "Gamle Oslo",
     "market": "OVER 2.5",
     "odds": 1.14,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1505287|OVER 2.5|2026-10-03T11:00:00+00:00",
@@ -4323,7 +4331,9 @@
     "away": "Assyriska FF",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1572067|OVER 2.5|2026-10-03T15:00:00+00:00",
