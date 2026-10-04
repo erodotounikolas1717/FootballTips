@@ -4643,7 +4643,9 @@
     "away": "US Virgin Islands",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "1635938|OVER 2.5|2026-10-04T19:00:00+00:00",
