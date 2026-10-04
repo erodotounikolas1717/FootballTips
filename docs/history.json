@@ -4396,7 +4396,9 @@
     "away": "Charlotte Independence",
     "market": "GG",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "1581438|OVER 2.5|2026-10-04T01:00:00+00:00",
@@ -4418,7 +4420,9 @@
     "away": "Greenville Triumph",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1631751|OVER 2.5|2026-10-03T22:00:00+00:00",
@@ -4429,7 +4433,9 @@
     "away": "Cañoneros Marina",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1641862|OVER 2.5|2026-10-03T20:30:00+00:00",
@@ -4440,7 +4446,9 @@
     "away": "Atletico el Vigia FC",
     "market": "OVER 2.5",
     "odds": 5.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "1635983|GG|2026-10-03T21:30:00+00:00",
@@ -4451,7 +4459,9 @@
     "away": "Montañeses",
     "market": "GG",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1493727|OVER 2.5|2026-10-03T23:00:00+00:00",
@@ -4462,7 +4472,9 @@
     "away": "El Paso Locomotive",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1494025|OVER 2.5|2026-10-03T23:00:00+00:00",
@@ -4473,7 +4485,9 @@
     "away": "Alta",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1639024|OVER 2.5|2026-10-04T00:00:00+00:00",
@@ -4484,7 +4498,9 @@
     "away": "Napier City Rovers",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 7.0,
+    "away_score": 1.0
   },
   {
     "key": "1492310|GG|2026-10-03T21:30:00+00:00",
@@ -4495,6 +4511,8 @@
     "away": "RB Bragantino",
     "market": "GG",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   }
 ]
