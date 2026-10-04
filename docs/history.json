@@ -4516,5 +4516,115 @@
     "status": "LOSS",
     "home_score": 1.0,
     "away_score": 0.0
+  },
+  {
+    "key": "1618379|GG|2026-10-04T12:00:00+00:00",
+    "event_id": 1618379,
+    "date": "15:00",
+    "kickoff": "2026-10-04T12:00:00+00:00",
+    "home": "Blauw Geel",
+    "away": "UNA",
+    "market": "GG",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1582876|GG|2026-10-04T13:00:00+00:00",
+    "event_id": 1582876,
+    "date": "16:00",
+    "kickoff": "2026-10-04T13:00:00+00:00",
+    "home": "RUS Binche",
+    "away": "Ganshoren",
+    "market": "GG",
+    "odds": 1.48,
+    "status": "PENDING"
+  },
+  {
+    "key": "1624374|GG|2026-10-04T13:00:00+00:00",
+    "event_id": 1624374,
+    "date": "16:00",
+    "kickoff": "2026-10-04T13:00:00+00:00",
+    "home": "Rovato Vertovese",
+    "away": "Real Calepina",
+    "market": "GG",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1511028|GG|2026-10-04T13:00:00+00:00",
+    "event_id": 1511028,
+    "date": "16:00",
+    "kickoff": "2026-10-04T13:00:00+00:00",
+    "home": "IFK Trelleborg",
+    "away": "Räppe",
+    "market": "GG",
+    "odds": 1.91,
+    "status": "PENDING"
+  },
+  {
+    "key": "1561671|GG|2026-10-04T17:30:00+00:00",
+    "event_id": 1561671,
+    "date": "20:30",
+    "kickoff": "2026-10-04T17:30:00+00:00",
+    "home": "Zawisza Bydgoszcz",
+    "away": "Olimpia Grudziądz",
+    "market": "GG",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579256|OVER 2.5|2026-10-04T13:00:00+00:00",
+    "event_id": 1579256,
+    "date": "16:00",
+    "kickoff": "2026-10-04T13:00:00+00:00",
+    "home": "Strání",
+    "away": "Šternberk",
+    "market": "OVER 2.5",
+    "odds": 1.25,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579967|OVER 2.5|2026-10-04T13:00:00+00:00",
+    "event_id": 1579967,
+    "date": "16:00",
+    "kickoff": "2026-10-04T13:00:00+00:00",
+    "home": "Knokke",
+    "away": "Oud-Heverlee Leuven II",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1562524|GG|2026-10-04T14:00:00+00:00",
+    "event_id": 1562524,
+    "date": "17:00",
+    "kickoff": "2026-10-04T14:00:00+00:00",
+    "home": "Spartak Police n/Metují",
+    "away": "Letohrad",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528940|OVER 2.5|2026-10-04T18:45:00+00:00",
+    "event_id": 1528940,
+    "date": "21:45",
+    "kickoff": "2026-10-04T18:45:00+00:00",
+    "home": "Netherlands",
+    "away": "Serbia",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639986|OVER 2.5|2026-10-04T20:00:00+00:00",
+    "event_id": 1639986,
+    "date": "23:00",
+    "kickoff": "2026-10-04T20:00:00+00:00",
+    "home": "Bahamas",
+    "away": "US Virgin Islands",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
   }
 ]
