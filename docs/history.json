@@ -4638,5 +4638,93 @@
     "market": "OVER 2.5",
     "odds": 1.4,
     "status": "PENDING"
+  },
+  {
+    "key": "1635938|OVER 2.5|2026-10-04T19:00:00+00:00",
+    "event_id": 1635938,
+    "date": "22:00",
+    "kickoff": "2026-10-04T19:00:00+00:00",
+    "home": "Bolívar",
+    "away": "Monagas II",
+    "market": "OVER 2.5",
+    "odds": 7.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639990|OVER 2.5|2026-10-05T00:00:00+00:00",
+    "event_id": 1639990,
+    "date": "03:00",
+    "kickoff": "2026-10-05T00:00:00+00:00",
+    "home": "Costa Rica",
+    "away": "Haiti",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1609068|GG|2026-10-04T18:30:00+00:00",
+    "event_id": 1609068,
+    "date": "21:30",
+    "kickoff": "2026-10-04T18:30:00+00:00",
+    "home": "Potenza",
+    "away": "AZ Picerno",
+    "market": "GG",
+    "odds": 2.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493729|OVER 2.5|2026-10-04T22:00:00+00:00",
+    "event_id": 1493729,
+    "date": "01:00",
+    "kickoff": "2026-10-04T22:00:00+00:00",
+    "home": "New Mexico United",
+    "away": "Phoenix Rising",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639989|OVER 2.5|2026-10-04T23:00:00+00:00",
+    "event_id": 1639989,
+    "date": "02:00",
+    "kickoff": "2026-10-04T23:00:00+00:00",
+    "home": "Aruba",
+    "away": "Anguilla",
+    "market": "OVER 2.5",
+    "odds": 1.18,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549808|OVER 2.5|2026-10-04T19:00:00+00:00",
+    "event_id": 1549808,
+    "date": "22:00",
+    "kickoff": "2026-10-04T19:00:00+00:00",
+    "home": "Deportivo Pasto",
+    "away": "Fortaleza FC",
+    "market": "OVER 2.5",
+    "odds": 2.3,
+    "status": "PENDING"
+  },
+  {
+    "key": "1559658|GG|2026-10-04T23:00:00+00:00",
+    "event_id": 1559658,
+    "date": "02:00",
+    "kickoff": "2026-10-04T23:00:00+00:00",
+    "home": "Guastatoya",
+    "away": "Aurora",
+    "market": "GG",
+    "odds": 2.15,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549805|OVER 2.5|2026-10-04T21:05:00+00:00",
+    "event_id": 1549805,
+    "date": "00:05",
+    "kickoff": "2026-10-04T21:05:00+00:00",
+    "home": "Cucuta",
+    "away": "Deportivo Pereira",
+    "market": "OVER 2.5",
+    "odds": 1.9,
+    "status": "PENDING"
   }
 ]
