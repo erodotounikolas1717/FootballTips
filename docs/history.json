@@ -4539,7 +4539,9 @@
     "away": "Ganshoren",
     "market": "GG",
     "odds": 1.48,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1624374|GG|2026-10-04T13:00:00+00:00",
@@ -4576,7 +4578,9 @@
     "away": "Olimpia Grudziądz",
     "market": "GG",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1579256|OVER 2.5|2026-10-04T13:00:00+00:00",
@@ -4626,7 +4630,9 @@
     "away": "Serbia",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1639986|OVER 2.5|2026-10-04T20:00:00+00:00",
@@ -4648,7 +4654,9 @@
     "away": "Monagas II",
     "market": "OVER 2.5",
     "odds": 7.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1639990|OVER 2.5|2026-10-05T00:00:00+00:00",
@@ -4670,7 +4678,9 @@
     "away": "AZ Picerno",
     "market": "GG",
     "odds": 2.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 2.0
   },
   {
     "key": "1493729|OVER 2.5|2026-10-04T22:00:00+00:00",
@@ -4703,7 +4713,9 @@
     "away": "Fortaleza FC",
     "market": "OVER 2.5",
     "odds": 2.3,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1559658|GG|2026-10-04T23:00:00+00:00",
