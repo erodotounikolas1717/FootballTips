@@ -4526,7 +4526,9 @@
     "away": "UNA",
     "market": "GG",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1582876|GG|2026-10-04T13:00:00+00:00",
@@ -4548,7 +4550,9 @@
     "away": "Real Calepina",
     "market": "GG",
     "odds": 1.73,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1511028|GG|2026-10-04T13:00:00+00:00",
@@ -4559,7 +4563,9 @@
     "away": "Räppe",
     "market": "GG",
     "odds": 1.91,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1561671|GG|2026-10-04T17:30:00+00:00",
@@ -4581,7 +4587,9 @@
     "away": "Šternberk",
     "market": "OVER 2.5",
     "odds": 1.25,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1579967|OVER 2.5|2026-10-04T13:00:00+00:00",
@@ -4592,7 +4600,9 @@
     "away": "Oud-Heverlee Leuven II",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1562524|GG|2026-10-04T14:00:00+00:00",
@@ -4603,7 +4613,9 @@
     "away": "Letohrad",
     "market": "GG",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 4.0,
+    "away_score": 0.0
   },
   {
     "key": "1528940|OVER 2.5|2026-10-04T18:45:00+00:00",
