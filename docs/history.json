@@ -4750,5 +4750,115 @@
     "status": "WIN",
     "home_score": 4.0,
     "away_score": 0.0
+  },
+  {
+    "key": "1496891|GG|2026-10-05T16:00:00+00:00",
+    "event_id": 1496891,
+    "date": "19:00",
+    "kickoff": "2026-10-05T16:00:00+00:00",
+    "home": "Fana",
+    "away": "Åsane II",
+    "market": "GG",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1495962|GG|2026-10-05T17:00:00+00:00",
+    "event_id": 1495962,
+    "date": "20:00",
+    "kickoff": "2026-10-05T17:00:00+00:00",
+    "home": "Moss",
+    "away": "Kongsvinger",
+    "market": "GG",
+    "odds": 1.28,
+    "status": "PENDING"
+  },
+  {
+    "key": "1497075|OVER 2.5|2026-10-05T11:00:00+00:00",
+    "event_id": 1497075,
+    "date": "14:00",
+    "kickoff": "2026-10-05T11:00:00+00:00",
+    "home": "Odd II",
+    "away": "Viking II",
+    "market": "OVER 2.5",
+    "odds": 1.22,
+    "status": "PENDING"
+  },
+  {
+    "key": "1596001|OVER 2.5|2026-10-05T18:45:00+00:00",
+    "event_id": 1596001,
+    "date": "21:45",
+    "kickoff": "2026-10-05T18:45:00+00:00",
+    "home": "Carshalton Athletic",
+    "away": "Eastbourne Borough",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639995|OVER 2.5|2026-10-06T00:00:00+00:00",
+    "event_id": 1639995,
+    "date": "03:00",
+    "kickoff": "2026-10-06T00:00:00+00:00",
+    "home": "Bermuda",
+    "away": "Barbados",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639992|OVER 2.5|2026-10-05T19:00:00+00:00",
+    "event_id": 1639992,
+    "date": "22:00",
+    "kickoff": "2026-10-05T19:00:00+00:00",
+    "home": "Guadeloupe",
+    "away": "St. Lucia",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1598691|GG|2026-10-05T16:00:00+00:00",
+    "event_id": 1598691,
+    "date": "19:00",
+    "kickoff": "2026-10-05T16:00:00+00:00",
+    "home": "Torreense U23",
+    "away": "Estoril U23",
+    "market": "GG",
+    "odds": 1.55,
+    "status": "PENDING"
+  },
+  {
+    "key": "1497441|OVER 2.5|2026-10-05T17:00:00+00:00",
+    "event_id": 1497441,
+    "date": "20:00",
+    "kickoff": "2026-10-05T17:00:00+00:00",
+    "home": "Lyn II",
+    "away": "Råde",
+    "market": "OVER 2.5",
+    "odds": 1.2,
+    "status": "PENDING"
+  },
+  {
+    "key": "1643424|OVER 2.5|2026-10-05T22:05:00+00:00",
+    "event_id": 1643424,
+    "date": "01:05",
+    "kickoff": "2026-10-05T22:05:00+00:00",
+    "home": "Chapelton",
+    "away": "Waterhouse",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1528950|GG|2026-10-05T18:45:00+00:00",
+    "event_id": 1528950,
+    "date": "21:45",
+    "kickoff": "2026-10-05T18:45:00+00:00",
+    "home": "Montenegro",
+    "away": "Armenia",
+    "market": "GG",
+    "odds": 1.83,
+    "status": "PENDING"
   }
 ]
