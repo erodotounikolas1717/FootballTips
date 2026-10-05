@@ -4862,5 +4862,27 @@
     "market": "GG",
     "odds": 1.83,
     "status": "PENDING"
+  },
+  {
+    "key": "1510684|OVER 2.5|2026-10-05T17:00:00+00:00",
+    "event_id": 1510684,
+    "date": "20:00",
+    "kickoff": "2026-10-05T17:00:00+00:00",
+    "home": "Herrestads",
+    "away": "Grebbestad",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1554181|GG|2026-10-05T16:00:00+00:00",
+    "event_id": 1554181,
+    "date": "19:00",
+    "kickoff": "2026-10-05T16:00:00+00:00",
+    "home": "TSC Backa Topola",
+    "away": "Grafičar",
+    "market": "GG",
+    "odds": 1.85,
+    "status": "PENDING"
   }
 ]
