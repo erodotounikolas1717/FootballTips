@@ -4773,7 +4773,9 @@
     "away": "Kongsvinger",
     "market": "GG",
     "odds": 1.28,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "1497075|OVER 2.5|2026-10-05T11:00:00+00:00",
@@ -4797,7 +4799,9 @@
     "away": "Eastbourne Borough",
     "market": "OVER 2.5",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "1639995|OVER 2.5|2026-10-06T00:00:00+00:00",
@@ -4819,7 +4823,9 @@
     "away": "St. Lucia",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1598691|GG|2026-10-05T16:00:00+00:00",
@@ -4843,7 +4849,9 @@
     "away": "Råde",
     "market": "OVER 2.5",
     "odds": 1.2,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1643424|OVER 2.5|2026-10-05T22:05:00+00:00",
@@ -4865,7 +4873,9 @@
     "away": "Armenia",
     "market": "GG",
     "odds": 1.83,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1510684|OVER 2.5|2026-10-05T17:00:00+00:00",
@@ -4876,7 +4886,9 @@
     "away": "Grebbestad",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1554181|GG|2026-10-05T16:00:00+00:00",
