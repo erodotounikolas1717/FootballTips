@@ -4760,7 +4760,9 @@
     "away": "Åsane II",
     "market": "GG",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 2.0
   },
   {
     "key": "1495962|GG|2026-10-05T17:00:00+00:00",
@@ -4828,7 +4830,9 @@
     "away": "Estoril U23",
     "market": "GG",
     "odds": 1.55,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "1497441|OVER 2.5|2026-10-05T17:00:00+00:00",
@@ -4883,6 +4887,8 @@
     "away": "Grafičar",
     "market": "GG",
     "odds": 1.85,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   }
 ]
