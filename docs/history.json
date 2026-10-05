@@ -4669,7 +4669,9 @@
     "away": "Haiti",
     "market": "OVER 2.5",
     "odds": 1.7,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1609068|GG|2026-10-04T18:30:00+00:00",
