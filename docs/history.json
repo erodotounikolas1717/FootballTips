@@ -4706,7 +4706,9 @@
     "away": "Anguilla",
     "market": "OVER 2.5",
     "odds": 1.18,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1549808|OVER 2.5|2026-10-04T19:00:00+00:00",
@@ -4730,7 +4732,9 @@
     "away": "Aurora",
     "market": "GG",
     "odds": 2.15,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1549805|OVER 2.5|2026-10-04T21:05:00+00:00",
