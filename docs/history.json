@@ -4862,7 +4862,9 @@
     "away": "Waterhouse",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 6.0
   },
   {
     "key": "1528950|GG|2026-10-05T18:45:00+00:00",
