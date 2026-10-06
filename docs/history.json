@@ -4929,7 +4929,9 @@
     "away": "Bury",
     "market": "OVER 2.5",
     "odds": 1.6,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1596471|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4940,7 +4942,9 @@
     "away": "Workington",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1588351|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4951,7 +4955,9 @@
     "away": "Walton & Hersham",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1596472|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4962,7 +4968,9 @@
     "away": "Gainsborough Trinity",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 6.0
   },
   {
     "key": "1528952|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4973,7 +4981,9 @@
     "away": "Spain",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1528953|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4984,7 +4994,9 @@
     "away": "Czechia",
     "market": "OVER 2.5",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1596006|OVER 2.5|2026-10-06T18:45:00+00:00",
@@ -4995,7 +5007,9 @@
     "away": "Welling United",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1528956|GG|2026-10-06T18:45:00+00:00",
@@ -5006,7 +5020,9 @@
     "away": "Slovakia",
     "market": "GG",
     "odds": 2.1,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "1596003|GG|2026-10-06T18:45:00+00:00",
@@ -5017,7 +5033,9 @@
     "away": "Aveley",
     "market": "GG",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1490326|OVER 2.5|2026-10-07T00:30:00+00:00",
