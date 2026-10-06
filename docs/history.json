@@ -4916,7 +4916,9 @@
     "away": "Kongsvinger II",
     "market": "OVER 2.5",
     "odds": 1.2,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 4.0
   },
   {
     "key": "1596470|OVER 2.5|2026-10-06T18:45:00+00:00",
