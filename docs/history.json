@@ -5016,5 +5016,27 @@
     "market": "GG",
     "odds": 1.5,
     "status": "PENDING"
+  },
+  {
+    "key": "1490326|OVER 2.5|2026-10-07T00:30:00+00:00",
+    "event_id": 1490326,
+    "date": "03:30",
+    "kickoff": "2026-10-07T00:30:00+00:00",
+    "home": "Chicago Fire",
+    "away": "Vancouver Whitecaps",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1640000|OVER 2.5|2026-10-06T20:00:00+00:00",
+    "event_id": 1640000,
+    "date": "23:00",
+    "kickoff": "2026-10-06T20:00:00+00:00",
+    "home": "Saint Martin",
+    "away": "Bahamas",
+    "market": "OVER 2.5",
+    "odds": 1.1,
+    "status": "PENDING"
   }
 ]
