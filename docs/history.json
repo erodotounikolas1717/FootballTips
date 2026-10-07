@@ -5177,7 +5177,9 @@
     "away": "Ayvalikgucu",
     "market": "GG",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1492397|OVER 2.5|2026-10-07T22:30:00+00:00",
