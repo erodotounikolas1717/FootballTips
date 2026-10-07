@@ -5120,7 +5120,9 @@
     "away": "Yeni Mersin Idmanyurdu",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 3.0
   },
   {
     "key": "1639194|GG|2026-10-07T15:00:00+00:00",
