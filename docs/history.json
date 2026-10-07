@@ -5209,6 +5209,8 @@
     "away": "Independiente Res.",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   }
 ]
