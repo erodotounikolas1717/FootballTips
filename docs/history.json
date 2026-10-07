@@ -5074,7 +5074,9 @@
     "away": "Akşehirspor",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1547006|OVER 2.5|2026-10-07T19:00:00+00:00",
