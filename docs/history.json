@@ -5168,7 +5168,9 @@
     "away": "Prato",
     "market": "GG",
     "odds": 1.91,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 3.0
   },
   {
     "key": "1640702|GG|2026-10-07T11:30:00+00:00",
