@@ -5133,7 +5133,9 @@
     "away": "Alessandria",
     "market": "GG",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1639201|GG|2026-10-07T13:00:00+00:00",
