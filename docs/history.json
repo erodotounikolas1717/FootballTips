@@ -2101,7 +2101,9 @@
     "away": "Varnsdorf",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1497252|OVER 2.5|2026-09-26T11:00:00+00:00",
@@ -5094,7 +5096,9 @@
     "away": "Varnsdorf",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1549587|GG|2026-10-07T22:00:00+00:00",
