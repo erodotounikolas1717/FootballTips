@@ -5062,5 +5062,115 @@
     "status": "WIN",
     "home_score": 6.0,
     "away_score": 0.0
+  },
+  {
+    "key": "1640682|OVER 2.5|2026-10-07T17:00:00+00:00",
+    "event_id": 1640682,
+    "date": "20:00",
+    "kickoff": "2026-10-07T17:00:00+00:00",
+    "home": "Eskişehirspor",
+    "away": "Akşehirspor",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1547006|OVER 2.5|2026-10-07T19:00:00+00:00",
+    "event_id": 1547006,
+    "date": "22:00",
+    "kickoff": "2026-10-07T19:00:00+00:00",
+    "home": "Keith",
+    "away": "Turriff United",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1562767|OVER 2.5|2026-10-07T09:00:00+00:00",
+    "event_id": 1562767,
+    "date": "12:00",
+    "kickoff": "2026-10-07T09:00:00+00:00",
+    "home": "Mladá Boleslav II",
+    "away": "Varnsdorf",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549587|GG|2026-10-07T22:00:00+00:00",
+    "event_id": 1549587,
+    "date": "01:00",
+    "kickoff": "2026-10-07T22:00:00+00:00",
+    "home": "Popayan",
+    "away": "Union Magdalena",
+    "market": "GG",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1640698|OVER 2.5|2026-10-07T11:00:00+00:00",
+    "event_id": 1640698,
+    "date": "14:00",
+    "kickoff": "2026-10-07T11:00:00+00:00",
+    "home": "Osmaniyespor",
+    "away": "Yeni Mersin Idmanyurdu",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639194|GG|2026-10-07T15:00:00+00:00",
+    "event_id": 1639194,
+    "date": "18:00",
+    "kickoff": "2026-10-07T15:00:00+00:00",
+    "home": "Biellese",
+    "away": "Alessandria",
+    "market": "GG",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639201|GG|2026-10-07T13:00:00+00:00",
+    "event_id": 1639201,
+    "date": "16:00",
+    "kickoff": "2026-10-07T13:00:00+00:00",
+    "home": "Flaminia",
+    "away": "Robur Siena",
+    "market": "GG",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494027|OVER 2.5|2026-10-08T00:30:00+00:00",
+    "event_id": 1494027,
+    "date": "03:30",
+    "kickoff": "2026-10-08T00:30:00+00:00",
+    "home": "Corpus Christi",
+    "away": "Fort Wayne",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1639216|GG|2026-10-07T14:00:00+00:00",
+    "event_id": 1639216,
+    "date": "17:00",
+    "kickoff": "2026-10-07T14:00:00+00:00",
+    "home": "Terranuova Traiana",
+    "away": "Prato",
+    "market": "GG",
+    "odds": 1.91,
+    "status": "PENDING"
+  },
+  {
+    "key": "1640702|GG|2026-10-07T11:30:00+00:00",
+    "event_id": 1640702,
+    "date": "14:30",
+    "kickoff": "2026-10-07T11:30:00+00:00",
+    "home": "Söke 1970",
+    "away": "Ayvalikgucu",
+    "market": "GG",
+    "odds": 1.62,
+    "status": "PENDING"
   }
 ]
