@@ -5178,5 +5178,27 @@
     "market": "GG",
     "odds": 1.62,
     "status": "PENDING"
+  },
+  {
+    "key": "1492397|OVER 2.5|2026-10-07T22:30:00+00:00",
+    "event_id": 1492397,
+    "date": "01:30",
+    "kickoff": "2026-10-07T22:30:00+00:00",
+    "home": "Remo",
+    "away": "Gremio",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612081|OVER 2.5|2026-10-07T18:00:00+00:00",
+    "event_id": 1612081,
+    "date": "21:00",
+    "kickoff": "2026-10-07T18:00:00+00:00",
+    "home": "Ferro 2",
+    "away": "Independiente Res.",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
   }
 ]
