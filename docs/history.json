@@ -5165,7 +5165,9 @@
     "away": "Fort Wayne",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1639216|GG|2026-10-07T14:00:00+00:00",
