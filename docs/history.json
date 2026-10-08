@@ -5324,7 +5324,9 @@
     "away": "Sardarapat 2",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1612084|OVER 2.5|2026-10-08T18:00:00+00:00",
