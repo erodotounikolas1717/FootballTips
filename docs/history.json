@@ -5276,7 +5276,9 @@
     "away": "Svay Rieng",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 6.0,
+    "away_score": 0.0
   },
   {
     "key": "1551233|OVER 2.5|2026-10-08T12:00:00+00:00",
@@ -5287,7 +5289,9 @@
     "away": "Persib Bandung",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1612086|OVER 2.5|2026-10-08T18:00:00+00:00",
