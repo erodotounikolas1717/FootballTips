@@ -5263,7 +5263,9 @@
     "away": "Yaypan",
     "market": "OVER 2.5",
     "odds": 1.6,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1551231|OVER 2.5|2026-10-08T12:00:00+00:00",
