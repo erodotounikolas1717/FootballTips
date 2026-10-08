@@ -5087,7 +5087,9 @@
     "away": "Turriff United",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1562767|OVER 2.5|2026-10-07T09:00:00+00:00",
@@ -5111,7 +5113,9 @@
     "away": "Union Magdalena",
     "market": "GG",
     "odds": 1.85,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1640698|OVER 2.5|2026-10-07T11:00:00+00:00",
@@ -5198,7 +5202,9 @@
     "away": "Gremio",
     "market": "OVER 2.5",
     "odds": 1.85,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1612081|OVER 2.5|2026-10-07T18:00:00+00:00",
