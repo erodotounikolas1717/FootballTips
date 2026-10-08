@@ -5252,7 +5252,9 @@
     "away": "CSA Steaua Bucureşti",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1531108|OVER 2.5|2026-10-08T10:30:00+00:00",
@@ -5359,7 +5361,9 @@
     "away": "Al-Duhail SC",
     "market": "GG",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "1642034|OVER 2.5|2026-10-08T18:45:00+00:00",
