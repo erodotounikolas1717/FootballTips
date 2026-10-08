@@ -5304,7 +5304,9 @@
     "away": "Central Córdoba SdE Res.",
     "market": "OVER 2.5",
     "odds": 1.65,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1565207|OVER 2.5|2026-10-08T17:30:00+00:00",
@@ -5315,7 +5317,9 @@
     "away": "Universitatea Cluj",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1605089|OVER 2.5|2026-10-08T11:30:00+00:00",
@@ -5339,7 +5343,9 @@
     "away": "Barracas Central Res.",
     "market": "OVER 2.5",
     "odds": 2.15,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1520915|OVER 2.5|2026-10-08T22:30:00+00:00",
