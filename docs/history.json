@@ -5230,7 +5230,9 @@
     "away": "Club Deportivo Los Chankas",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1492394|OVER 2.5|2026-10-09T00:30:00+00:00",
