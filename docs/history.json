@@ -5456,7 +5456,9 @@
     "away": "North District",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1633658|OVER 2.5|2026-10-09T12:00:00+00:00",
