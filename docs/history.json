@@ -5432,7 +5432,9 @@
     "away": "Khan Tengri",
     "market": "OVER 2.5",
     "odds": 1.26,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1581442|OVER 2.5|2026-10-09T23:00:00+00:00",
