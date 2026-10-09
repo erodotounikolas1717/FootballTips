@@ -5358,7 +5358,9 @@
     "away": "Novorizontino",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "1597937|GG|2026-10-08T14:45:00+00:00",
