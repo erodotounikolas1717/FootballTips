@@ -5480,7 +5480,9 @@
     "away": "Hapoel Afula",
     "market": "OVER 2.5",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1595259|OVER 2.5|2026-10-09T13:30:00+00:00",
@@ -5491,7 +5493,9 @@
     "away": "Križevci",
     "market": "OVER 2.5",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1497080|OVER 2.5|2026-10-09T15:00:00+00:00",
