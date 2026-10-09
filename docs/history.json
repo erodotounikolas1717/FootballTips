@@ -5501,5 +5501,93 @@
     "market": "OVER 2.5",
     "odds": 1.25,
     "status": "PENDING"
+  },
+  {
+    "key": "1560040|OVER 2.5|2026-10-09T16:00:00+00:00",
+    "event_id": 1560040,
+    "date": "19:00",
+    "kickoff": "2026-10-09T16:00:00+00:00",
+    "home": "Zlin",
+    "away": "Slavia Praha",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555066|OVER 2.5|2026-10-09T17:30:00+00:00",
+    "event_id": 1555066,
+    "date": "20:30",
+    "kickoff": "2026-10-09T17:30:00+00:00",
+    "home": "Neuchatel Xamax FC",
+    "away": "FC Winterthur",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551828|OVER 2.5|2026-10-09T18:00:00+00:00",
+    "event_id": 1551828,
+    "date": "21:00",
+    "kickoff": "2026-10-09T18:00:00+00:00",
+    "home": "De Graafschap",
+    "away": "Jong Utrecht",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1622650|OVER 2.5|2026-10-09T17:05:00+00:00",
+    "event_id": 1622650,
+    "date": "20:05",
+    "kickoff": "2026-10-09T17:05:00+00:00",
+    "home": "Kazma",
+    "away": "Al Arabi",
+    "market": "OVER 2.5",
+    "odds": 1.75,
+    "status": "PENDING"
+  },
+  {
+    "key": "1566371|OVER 2.5|2026-10-09T17:30:00+00:00",
+    "event_id": 1566371,
+    "date": "20:30",
+    "kickoff": "2026-10-09T17:30:00+00:00",
+    "home": "ETSV Hamburg",
+    "away": "Niendorfer TSV",
+    "market": "OVER 2.5",
+    "odds": 1.23,
+    "status": "PENDING"
+  },
+  {
+    "key": "1556468|OVER 2.5|2026-10-09T15:00:00+00:00",
+    "event_id": 1556468,
+    "date": "18:00",
+    "kickoff": "2026-10-09T15:00:00+00:00",
+    "home": "FA Šiauliai II",
+    "away": "Kauno Žalgiris II",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1569130|GG|2026-10-09T17:00:00+00:00",
+    "event_id": 1569130,
+    "date": "20:00",
+    "kickoff": "2026-10-09T17:00:00+00:00",
+    "home": "Warta Sieradz",
+    "away": "Wigry Suwałki",
+    "market": "GG",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1592753|OVER 2.5|2026-10-09T17:30:00+00:00",
+    "event_id": 1592753,
+    "date": "20:30",
+    "kickoff": "2026-10-09T17:30:00+00:00",
+    "home": "KFC Uerdingen 05",
+    "away": "Solingen-Wald",
+    "market": "OVER 2.5",
+    "odds": 1.29,
+    "status": "PENDING"
   }
 ]
