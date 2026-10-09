@@ -5534,7 +5534,9 @@
     "away": "FC Winterthur",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1551828|OVER 2.5|2026-10-09T18:00:00+00:00",
@@ -5556,7 +5558,9 @@
     "away": "Al Arabi",
     "market": "OVER 2.5",
     "odds": 1.75,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1566371|OVER 2.5|2026-10-09T17:30:00+00:00",
@@ -5591,7 +5595,9 @@
     "away": "Wigry Suwałki",
     "market": "GG",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1592753|OVER 2.5|2026-10-09T17:30:00+00:00",
