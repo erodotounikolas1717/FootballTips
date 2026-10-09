@@ -5547,7 +5547,9 @@
     "away": "Jong Utrecht",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1622650|OVER 2.5|2026-10-09T17:05:00+00:00",
@@ -5571,7 +5573,9 @@
     "away": "Niendorfer TSV",
     "market": "OVER 2.5",
     "odds": 1.23,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 6.0
   },
   {
     "key": "1556468|OVER 2.5|2026-10-09T15:00:00+00:00",
@@ -5608,6 +5612,8 @@
     "away": "Solingen-Wald",
     "market": "OVER 2.5",
     "odds": 1.29,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   }
 ]
