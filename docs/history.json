@@ -5399,7 +5399,9 @@
     "away": "Vlašim",
     "market": "GG",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "1575176|OVER 2.5|2026-10-09T18:30:00+00:00",
@@ -5506,7 +5508,9 @@
     "away": "Odd II",
     "market": "OVER 2.5",
     "odds": 1.25,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1560040|OVER 2.5|2026-10-09T16:00:00+00:00",
@@ -5572,7 +5576,9 @@
     "away": "Kauno Žalgiris II",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 3.0
   },
   {
     "key": "1569130|GG|2026-10-09T17:00:00+00:00",
