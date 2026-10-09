@@ -5412,7 +5412,9 @@
     "away": "Werder Bremen",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1575981|OVER 2.5|2026-10-09T18:45:00+00:00",
@@ -5423,7 +5425,9 @@
     "away": "Ammanford AFC",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1534864|OVER 2.5|2026-10-09T10:00:00+00:00",
