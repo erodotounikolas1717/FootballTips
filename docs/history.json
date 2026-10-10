@@ -5737,5 +5737,104 @@
     "market": "OVER 2.5",
     "odds": 1.5,
     "status": "PENDING"
+  },
+  {
+    "key": "1552182|GG|2026-10-10T14:30:00+00:00",
+    "event_id": 1552182,
+    "date": "17:30",
+    "kickoff": "2026-10-10T14:30:00+00:00",
+    "home": "GO Ahead Eagles",
+    "away": "Sparta Rotterdam",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494031|GG|2026-10-10T23:00:00+00:00",
+    "event_id": 1494031,
+    "date": "02:00",
+    "kickoff": "2026-10-10T23:00:00+00:00",
+    "home": "Charlotte Independence",
+    "away": "NY Cosmos",
+    "market": "GG",
+    "odds": 1.35,
+    "status": "PENDING"
+  },
+  {
+    "key": "1552780|OVER 2.5|2026-10-10T18:45:00+00:00",
+    "event_id": 1552780,
+    "date": "21:45",
+    "kickoff": "2026-10-10T18:45:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Le Mans",
+    "market": "OVER 2.5",
+    "odds": 1.25,
+    "status": "PENDING"
+  },
+  {
+    "key": "1552183|OVER 3.5|2026-10-10T19:00:00+00:00",
+    "event_id": 1552183,
+    "date": "22:00",
+    "kickoff": "2026-10-10T19:00:00+00:00",
+    "home": "Ajax",
+    "away": "NEC Nijmegen",
+    "market": "OVER 3.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1570411|OVER 2.5|2026-10-10T19:00:00+00:00",
+    "event_id": 1570411,
+    "date": "22:00",
+    "kickoff": "2026-10-10T19:00:00+00:00",
+    "home": "Real Madrid",
+    "away": "Villarreal",
+    "market": "OVER 2.5",
+    "odds": 1.28,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490522|OVER 2.5|2026-10-11T00:30:00+00:00",
+    "event_id": 1490522,
+    "date": "03:30",
+    "kickoff": "2026-10-11T00:30:00+00:00",
+    "home": "Sporting Kansas City",
+    "away": "Portland Timbers",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555403|OVER 2.5|2026-10-10T16:00:00+00:00",
+    "event_id": 1555403,
+    "date": "19:00",
+    "kickoff": "2026-10-10T16:00:00+00:00",
+    "home": "FC Lugano",
+    "away": "FC Luzern",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1603574|OVER 2.5|2026-10-10T16:00:00+00:00",
+    "event_id": 1603574,
+    "date": "19:00",
+    "kickoff": "2026-10-10T16:00:00+00:00",
+    "home": "Apoel Nicosia",
+    "away": "Nea Salamis",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493744|OVER 2.5|2026-10-10T17:00:00+00:00",
+    "event_id": 1493744,
+    "date": "20:00",
+    "kickoff": "2026-10-10T17:00:00+00:00",
+    "home": "Sporting JAX",
+    "away": "Birmingham Legion",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
   }
 ]
