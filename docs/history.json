@@ -5659,7 +5659,9 @@
     "away": "Dumbarton",
     "market": "GG",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1494773|OVER 2.5|2026-10-10T14:00:00+00:00",
@@ -5670,7 +5672,9 @@
     "away": "Kristiansund BK",
     "market": "OVER 2.5",
     "odds": 1.14,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1575177|OVER 3.5|2026-10-10T16:30:00+00:00",
@@ -5744,7 +5748,9 @@
     "away": "Bournemouth",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "1552182|GG|2026-10-10T14:30:00+00:00",
@@ -5755,7 +5761,9 @@
     "away": "Sparta Rotterdam",
     "market": "GG",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 3.0
   },
   {
     "key": "1494031|GG|2026-10-10T23:00:00+00:00",
