@@ -5475,7 +5475,9 @@
     "away": "Cetate Deva",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "1555175|OVER 2.5|2026-10-09T13:00:00+00:00",
