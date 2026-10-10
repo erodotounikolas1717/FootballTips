@@ -5646,7 +5646,9 @@
     "away": "Sportfreunde Siegen",
     "market": "GG",
     "odds": 1.29,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 5.0
   },
   {
     "key": "1557795|GG|2026-10-10T14:00:00+00:00",
@@ -5703,7 +5705,9 @@
     "away": "FC Bocholt",
     "market": "OVER 2.5",
     "odds": 4.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1638175|OVER 2.5|2026-10-10T12:00:00+00:00",
@@ -5714,7 +5718,9 @@
     "away": "Tampere United",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1496715|OVER 2.5|2026-10-10T13:00:00+00:00",
