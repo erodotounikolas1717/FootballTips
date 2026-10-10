@@ -5451,7 +5451,9 @@
     "away": "CA La Paz",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "1607321|OVER 2.5|2026-10-09T12:00:00+00:00",
