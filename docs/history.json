@@ -5787,7 +5787,9 @@
     "away": "Le Mans",
     "market": "OVER 2.5",
     "odds": 1.25,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1552183|OVER 3.5|2026-10-10T19:00:00+00:00",
@@ -5798,7 +5800,9 @@
     "away": "NEC Nijmegen",
     "market": "OVER 3.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1570411|OVER 2.5|2026-10-10T19:00:00+00:00",
@@ -5809,7 +5813,9 @@
     "away": "Villarreal",
     "market": "OVER 2.5",
     "odds": 1.28,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1490522|OVER 2.5|2026-10-11T00:30:00+00:00",
@@ -5857,6 +5863,8 @@
     "away": "Birmingham Legion",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   }
 ]
