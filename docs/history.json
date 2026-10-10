@@ -5623,5 +5623,115 @@
     "status": "WIN",
     "home_score": 2.0,
     "away_score": 3.0
+  },
+  {
+    "key": "1602504|GG|2026-10-10T08:00:00+00:00",
+    "event_id": 1602504,
+    "date": "11:00",
+    "kickoff": "2026-10-10T08:00:00+00:00",
+    "home": "Metaloglobus",
+    "away": "Popești-Leordeni",
+    "market": "GG",
+    "odds": 1.75,
+    "status": "PENDING"
+  },
+  {
+    "key": "1587501|GG|2026-10-10T12:00:00+00:00",
+    "event_id": 1587501,
+    "date": "15:00",
+    "kickoff": "2026-10-10T12:00:00+00:00",
+    "home": "FC Gutersloh",
+    "away": "Sportfreunde Siegen",
+    "market": "GG",
+    "odds": 1.29,
+    "status": "PENDING"
+  },
+  {
+    "key": "1557795|GG|2026-10-10T14:00:00+00:00",
+    "event_id": 1557795,
+    "date": "17:00",
+    "kickoff": "2026-10-10T14:00:00+00:00",
+    "home": "Clyde",
+    "away": "Dumbarton",
+    "market": "GG",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494773|OVER 2.5|2026-10-10T14:00:00+00:00",
+    "event_id": 1494773,
+    "date": "17:00",
+    "kickoff": "2026-10-10T14:00:00+00:00",
+    "home": "Bodo/Glimt",
+    "away": "Kristiansund BK",
+    "market": "OVER 2.5",
+    "odds": 1.14,
+    "status": "PENDING"
+  },
+  {
+    "key": "1575177|OVER 3.5|2026-10-10T16:30:00+00:00",
+    "event_id": 1575177,
+    "date": "19:30",
+    "kickoff": "2026-10-10T16:30:00+00:00",
+    "home": "RB Leipzig",
+    "away": "Eintracht Frankfurt",
+    "market": "OVER 3.5",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1607323|OVER 2.5|2026-10-10T08:00:00+00:00",
+    "event_id": 1607323,
+    "date": "11:00",
+    "kickoff": "2026-10-10T08:00:00+00:00",
+    "home": "Wofoo Tai Po",
+    "away": "Kowloon City",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1587504|OVER 2.5|2026-10-10T12:00:00+00:00",
+    "event_id": 1587504,
+    "date": "15:00",
+    "kickoff": "2026-10-10T12:00:00+00:00",
+    "home": "Rot-weiss Oberhausen",
+    "away": "FC Bocholt",
+    "market": "OVER 2.5",
+    "odds": 4.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1638175|OVER 2.5|2026-10-10T12:00:00+00:00",
+    "event_id": 1638175,
+    "date": "15:00",
+    "kickoff": "2026-10-10T12:00:00+00:00",
+    "home": "OLS",
+    "away": "Tampere United",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496715|OVER 2.5|2026-10-10T13:00:00+00:00",
+    "event_id": 1496715,
+    "date": "16:00",
+    "kickoff": "2026-10-10T13:00:00+00:00",
+    "home": "Byåsen",
+    "away": "Nardo",
+    "market": "OVER 2.5",
+    "odds": 1.28,
+    "status": "PENDING"
+  },
+  {
+    "key": "1557419|OVER 2.5|2026-10-10T14:00:00+00:00",
+    "event_id": 1557419,
+    "date": "17:00",
+    "kickoff": "2026-10-10T14:00:00+00:00",
+    "home": "Chelsea",
+    "away": "Bournemouth",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
   }
 ]
