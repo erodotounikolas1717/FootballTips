@@ -5731,7 +5731,9 @@
     "away": "Nardo",
     "market": "OVER 2.5",
     "odds": 1.28,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1557419|OVER 2.5|2026-10-10T14:00:00+00:00",
