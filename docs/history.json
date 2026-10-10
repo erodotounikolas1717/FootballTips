@@ -5633,7 +5633,9 @@
     "away": "Popești-Leordeni",
     "market": "GG",
     "odds": 1.75,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 3.0
   },
   {
     "key": "1587501|GG|2026-10-10T12:00:00+00:00",
@@ -5688,7 +5690,9 @@
     "away": "Kowloon City",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1587504|OVER 2.5|2026-10-10T12:00:00+00:00",
