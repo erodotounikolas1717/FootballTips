@@ -5919,7 +5919,9 @@
     "away": "FC Basel 1893",
     "market": "GG",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1552188|OVER 2.5|2026-10-11T14:45:00+00:00",
@@ -6037,7 +6039,9 @@
     "away": "FC Viktoria Köln",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 5.0
   },
   {
     "key": "1495968|OVER 2.5|2026-10-11T15:00:00+00:00",
