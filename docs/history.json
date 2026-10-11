@@ -5870,5 +5870,115 @@
     "status": "LOSS",
     "home_score": 0.0,
     "away_score": 1.0
+  },
+  {
+    "key": "1497266|GG|2026-10-11T09:30:00+00:00",
+    "event_id": 1497266,
+    "date": "12:30",
+    "kickoff": "2026-10-11T09:30:00+00:00",
+    "home": "Strømsgodset II",
+    "away": "Skjetten",
+    "market": "GG",
+    "odds": 1.22,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579973|GG|2026-10-11T13:00:00+00:00",
+    "event_id": 1579973,
+    "date": "16:00",
+    "kickoff": "2026-10-11T13:00:00+00:00",
+    "home": "Oud-Heverlee Leuven II",
+    "away": "Heist",
+    "market": "GG",
+    "odds": 1.35,
+    "status": "PENDING"
+  },
+  {
+    "key": "1582888|GG|2026-10-11T13:00:00+00:00",
+    "event_id": 1582888,
+    "date": "16:00",
+    "kickoff": "2026-10-11T13:00:00+00:00",
+    "home": "Ganshoren",
+    "away": "Stade Mouscronnois",
+    "market": "GG",
+    "odds": 1.43,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555406|GG|2026-10-11T14:30:00+00:00",
+    "event_id": 1555406,
+    "date": "17:30",
+    "kickoff": "2026-10-11T14:30:00+00:00",
+    "home": "FC Vaduz",
+    "away": "FC Basel 1893",
+    "market": "GG",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1552188|OVER 2.5|2026-10-11T14:45:00+00:00",
+    "event_id": 1552188,
+    "date": "17:45",
+    "kickoff": "2026-10-11T14:45:00+00:00",
+    "home": "Excelsior",
+    "away": "Groningen",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1607324|OVER 2.5|2026-10-11T08:00:00+00:00",
+    "event_id": 1607324,
+    "date": "11:00",
+    "kickoff": "2026-10-11T08:00:00+00:00",
+    "home": "BC Rangers",
+    "away": "Warriors",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1607325|OVER 2.5|2026-10-11T08:00:00+00:00",
+    "event_id": 1607325,
+    "date": "11:00",
+    "kickoff": "2026-10-11T08:00:00+00:00",
+    "home": "Southern District",
+    "away": "Eastern District",
+    "market": "OVER 2.5",
+    "odds": 1.6,
+    "status": "PENDING"
+  },
+  {
+    "key": "1570776|GG|2026-10-11T10:00:00+00:00",
+    "event_id": 1570776,
+    "date": "13:00",
+    "kickoff": "2026-10-11T10:00:00+00:00",
+    "home": "Athletic Club II",
+    "away": "Real Unión",
+    "market": "GG",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579971|OVER 2.5|2026-10-11T13:00:00+00:00",
+    "event_id": 1579971,
+    "date": "16:00",
+    "kickoff": "2026-10-11T13:00:00+00:00",
+    "home": "Cercle Brugge II",
+    "away": "Lyra-Lierse Berlaar",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494779|OVER 2.5|2026-10-11T15:00:00+00:00",
+    "event_id": 1494779,
+    "date": "18:00",
+    "kickoff": "2026-10-11T15:00:00+00:00",
+    "home": "Start",
+    "away": "Ham-Kam",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
   }
 ]
