@@ -5880,7 +5880,9 @@
     "away": "Skjetten",
     "market": "GG",
     "odds": 1.22,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "1579973|GG|2026-10-11T13:00:00+00:00",
