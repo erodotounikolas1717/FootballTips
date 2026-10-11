@@ -5776,7 +5776,9 @@
     "away": "NY Cosmos",
     "market": "GG",
     "odds": 1.35,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1552780|OVER 2.5|2026-10-10T18:45:00+00:00",
