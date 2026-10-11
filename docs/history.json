@@ -5828,7 +5828,9 @@
     "away": "Portland Timbers",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 3.0
   },
   {
     "key": "1555403|OVER 2.5|2026-10-10T16:00:00+00:00",
