@@ -5932,7 +5932,9 @@
     "away": "Groningen",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 5.0
   },
   {
     "key": "1607324|OVER 2.5|2026-10-11T08:00:00+00:00",
@@ -5995,7 +5997,9 @@
     "away": "Ham-Kam",
     "market": "OVER 2.5",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "1558020|GG|2026-10-11T15:30:00+00:00",
@@ -6006,7 +6010,9 @@
     "away": "Maribor",
     "market": "GG",
     "odds": 1.8,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1495969|GG|2026-10-11T15:00:00+00:00",
@@ -6017,7 +6023,9 @@
     "away": "Ranheim",
     "market": "GG",
     "odds": 1.28,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 6.0,
+    "away_score": 2.0
   },
   {
     "key": "1572078|OVER 2.5|2026-10-11T15:00:00+00:00",
@@ -6028,7 +6036,9 @@
     "away": "Bergantiños",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1584014|OVER 2.5|2026-10-11T14:30:00+00:00",
@@ -6052,7 +6062,9 @@
     "away": "hodd",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1495974|OVER 2.5|2026-10-11T15:00:00+00:00",
@@ -6063,7 +6075,9 @@
     "away": "Strommen",
     "market": "OVER 2.5",
     "odds": 1.3,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1560251|GG|2026-10-11T14:45:00+00:00",
@@ -6074,6 +6088,8 @@
     "away": "Ujpest",
     "market": "GG",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   }
 ]
