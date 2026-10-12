@@ -6145,7 +6145,9 @@
     "away": "Balestier Khalsa",
     "market": "OVER 2.5",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1629928|OVER 2.5|2026-10-12T16:00:00+00:00",
