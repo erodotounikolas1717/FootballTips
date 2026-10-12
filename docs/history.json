@@ -6203,5 +6203,60 @@
     "market": "OVER 2.5",
     "odds": 1.7,
     "status": "PENDING"
+  },
+  {
+    "key": "1595979|OVER 2.5|2026-10-12T18:45:00+00:00",
+    "event_id": 1595979,
+    "date": "21:45",
+    "kickoff": "2026-10-12T18:45:00+00:00",
+    "home": "Carshalton Athletic",
+    "away": "Enfield Town",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492403|OVER 2.5|2026-10-12T22:30:00+00:00",
+    "event_id": 1492403,
+    "date": "01:30",
+    "kickoff": "2026-10-12T22:30:00+00:00",
+    "home": "Chapecoense-sc",
+    "away": "Atletico Paranaense",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1553119|GG|2026-10-12T18:30:00+00:00",
+    "event_id": 1553119,
+    "date": "21:30",
+    "kickoff": "2026-10-12T18:30:00+00:00",
+    "home": "GKS Katowice",
+    "away": "Wieczysta Kraków",
+    "market": "GG",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1619326|OVER 2.5|2026-10-12T19:00:00+00:00",
+    "event_id": 1619326,
+    "date": "22:00",
+    "kickoff": "2026-10-12T19:00:00+00:00",
+    "home": "Gualberto Villarroel SJ",
+    "away": "Guabirá",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1619327|OVER 2.5|2026-10-12T21:15:00+00:00",
+    "event_id": 1619327,
+    "date": "00:15",
+    "kickoff": "2026-10-12T21:15:00+00:00",
+    "home": "Always Ready",
+    "away": "Independiente Petrolero",
+    "market": "OVER 2.5",
+    "odds": 1.25,
+    "status": "PENDING"
   }
 ]
