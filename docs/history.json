@@ -6206,7 +6206,9 @@
     "away": "Al-Qadisiyah FC",
     "market": "OVER 2.5",
     "odds": 1.7,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1595979|OVER 2.5|2026-10-12T18:45:00+00:00",
