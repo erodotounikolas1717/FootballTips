@@ -6231,7 +6231,9 @@
     "away": "Enfield Town",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1492403|OVER 2.5|2026-10-12T22:30:00+00:00",
@@ -6266,7 +6268,9 @@
     "away": "Guabirá",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1619327|OVER 2.5|2026-10-12T21:15:00+00:00",
