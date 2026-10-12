@@ -6091,5 +6091,115 @@
     "status": "WIN",
     "home_score": 1.0,
     "away_score": 1.0
+  },
+  {
+    "key": "1555173|GG|2026-10-12T16:00:00+00:00",
+    "event_id": 1555173,
+    "date": "19:00",
+    "kickoff": "2026-10-12T16:00:00+00:00",
+    "home": "Hapoel Kfar Shalem",
+    "away": "Hapoel Ra'anana",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551466|OVER 2.5|2026-10-12T13:00:00+00:00",
+    "event_id": 1551466,
+    "date": "16:00",
+    "kickoff": "2026-10-12T13:00:00+00:00",
+    "home": "Bashkimi Kumanovo",
+    "away": "Struga",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1497448|GG|2026-10-12T17:00:00+00:00",
+    "event_id": 1497448,
+    "date": "20:00",
+    "kickoff": "2026-10-12T17:00:00+00:00",
+    "home": "Sandefjord II",
+    "away": "Råde",
+    "market": "GG",
+    "odds": 1.19,
+    "status": "PENDING"
+  },
+  {
+    "key": "1605093|OVER 2.5|2026-10-12T11:00:00+00:00",
+    "event_id": 1605093,
+    "date": "14:00",
+    "kickoff": "2026-10-12T11:00:00+00:00",
+    "home": "Andranik",
+    "away": "Mika",
+    "market": "OVER 2.5",
+    "odds": 1.29,
+    "status": "PENDING"
+  },
+  {
+    "key": "1603470|OVER 2.5|2026-10-12T11:30:00+00:00",
+    "event_id": 1603470,
+    "date": "14:30",
+    "kickoff": "2026-10-12T11:30:00+00:00",
+    "home": "Hougang United",
+    "away": "Balestier Khalsa",
+    "market": "OVER 2.5",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1629928|OVER 2.5|2026-10-12T16:00:00+00:00",
+    "event_id": 1629928,
+    "date": "19:00",
+    "kickoff": "2026-10-12T16:00:00+00:00",
+    "home": "Al-Wasl FC",
+    "away": "Al-Ahli Jeddah",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1555515|OVER 2.5|2026-10-12T17:30:00+00:00",
+    "event_id": 1555515,
+    "date": "20:30",
+    "kickoff": "2026-10-12T17:30:00+00:00",
+    "home": "Hapoel Katamon",
+    "away": "Maccabi Haifa",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1494776|OVER 2.5|2026-10-12T17:00:00+00:00",
+    "event_id": 1494776,
+    "date": "20:00",
+    "kickoff": "2026-10-12T17:00:00+00:00",
+    "home": "KFUM Oslo",
+    "away": "Valerenga",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1549028|OVER 2.5|2026-10-12T17:00:00+00:00",
+    "event_id": 1549028,
+    "date": "20:00",
+    "kickoff": "2026-10-12T17:00:00+00:00",
+    "home": "Aarhus",
+    "away": "Sonderjyske",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1629927|OVER 2.5|2026-10-12T13:45:00+00:00",
+    "event_id": 1629927,
+    "date": "16:45",
+    "kickoff": "2026-10-12T13:45:00+00:00",
+    "home": "Pakhtakor",
+    "away": "Al-Qadisiyah FC",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
   }
 ]
