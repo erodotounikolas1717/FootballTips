@@ -6281,6 +6281,8 @@
     "away": "Independiente Petrolero",
     "market": "OVER 2.5",
     "odds": 1.25,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   }
 ]
