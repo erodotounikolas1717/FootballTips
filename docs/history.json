@@ -6127,7 +6127,9 @@
     "away": "Råde",
     "market": "GG",
     "odds": 1.19,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 2.0
   },
   {
     "key": "1605093|OVER 2.5|2026-10-12T11:00:00+00:00",
@@ -6177,7 +6179,9 @@
     "away": "Maccabi Haifa",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   },
   {
     "key": "1494776|OVER 2.5|2026-10-12T17:00:00+00:00",
@@ -6188,7 +6192,9 @@
     "away": "Valerenga",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 1.0
   },
   {
     "key": "1549028|OVER 2.5|2026-10-12T17:00:00+00:00",
@@ -6199,7 +6205,9 @@
     "away": "Sonderjyske",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1629927|OVER 2.5|2026-10-12T13:45:00+00:00",
