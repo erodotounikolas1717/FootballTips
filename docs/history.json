@@ -6244,7 +6244,9 @@
     "away": "Atletico Paranaense",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   },
   {
     "key": "1553119|GG|2026-10-12T18:30:00+00:00",
