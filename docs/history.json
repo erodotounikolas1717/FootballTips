@@ -6286,5 +6286,115 @@
     "status": "LOSS",
     "home_score": 2.0,
     "away_score": 0.0
+  },
+  {
+    "key": "1595989|GG|2026-10-13T18:45:00+00:00",
+    "event_id": 1595989,
+    "date": "21:45",
+    "kickoff": "2026-10-13T18:45:00+00:00",
+    "home": "Wingate & Finchley",
+    "away": "Ramsgate",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1596492|GG|2026-10-13T18:45:00+00:00",
+    "event_id": 1596492,
+    "date": "21:45",
+    "kickoff": "2026-10-13T18:45:00+00:00",
+    "home": "Lancaster City",
+    "away": "Stockton Town",
+    "market": "GG",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1635666|OVER 3.5|2026-10-13T19:00:00+00:00",
+    "event_id": 1635666,
+    "date": "22:00",
+    "kickoff": "2026-10-13T19:00:00+00:00",
+    "home": "Galatasaray",
+    "away": "Barcelona",
+    "market": "OVER 3.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1595970|OVER 2.5|2026-10-13T18:45:00+00:00",
+    "event_id": 1595970,
+    "date": "21:45",
+    "kickoff": "2026-10-13T18:45:00+00:00",
+    "home": "Burgess Hill Town",
+    "away": "Dulwich Hamlet",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1596009|OVER 2.5|2026-10-13T18:45:00+00:00",
+    "event_id": 1596009,
+    "date": "21:45",
+    "kickoff": "2026-10-13T18:45:00+00:00",
+    "home": "Three Bridges",
+    "away": "Lewes",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1596495|OVER 2.5|2026-10-13T18:45:00+00:00",
+    "event_id": 1596495,
+    "date": "21:45",
+    "kickoff": "2026-10-13T18:45:00+00:00",
+    "home": "Workington",
+    "away": "Whitby Town",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1635671|OVER 2.5|2026-10-13T19:00:00+00:00",
+    "event_id": 1635671,
+    "date": "22:00",
+    "kickoff": "2026-10-13T19:00:00+00:00",
+    "home": "Inter",
+    "away": "Club Brugge KV",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1629939|OVER 2.5|2026-10-13T16:00:00+00:00",
+    "event_id": 1629939,
+    "date": "19:00",
+    "kickoff": "2026-10-13T16:00:00+00:00",
+    "home": "Al Sadd",
+    "away": "Al-Hilal Saudi FC",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1629935|OVER 2.5|2026-10-13T10:00:00+00:00",
+    "event_id": 1629935,
+    "date": "13:00",
+    "kickoff": "2026-10-13T10:00:00+00:00",
+    "home": "Pohang Steelers",
+    "away": "Johor Darul Takzim FC",
+    "market": "OVER 2.5",
+    "odds": 1.73,
+    "status": "PENDING"
+  },
+  {
+    "key": "1584029|OVER 2.5|2026-10-13T17:00:00+00:00",
+    "event_id": 1584029,
+    "date": "20:00",
+    "kickoff": "2026-10-13T17:00:00+00:00",
+    "home": "Stuttgart II",
+    "away": "Hoffenheim II",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
   }
 ]
