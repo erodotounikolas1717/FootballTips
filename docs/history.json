@@ -6296,7 +6296,9 @@
     "away": "Ramsgate",
     "market": "GG",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1596492|GG|2026-10-13T18:45:00+00:00",
@@ -6307,7 +6309,9 @@
     "away": "Stockton Town",
     "market": "GG",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1635666|OVER 3.5|2026-10-13T19:00:00+00:00",
@@ -6329,7 +6333,9 @@
     "away": "Dulwich Hamlet",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1596009|OVER 2.5|2026-10-13T18:45:00+00:00",
@@ -6340,7 +6346,9 @@
     "away": "Lewes",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1596495|OVER 2.5|2026-10-13T18:45:00+00:00",
