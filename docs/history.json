@@ -6545,5 +6545,82 @@
     "market": "OVER 2.5",
     "odds": 1.4,
     "status": "PENDING"
+  },
+  {
+    "key": "1635639|OVER 2.5|2026-10-14T19:00:00+00:00",
+    "event_id": 1635639,
+    "date": "22:00",
+    "kickoff": "2026-10-14T19:00:00+00:00",
+    "home": "Bodo/Glimt",
+    "away": "Borussia Dortmund",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1493744|OVER 2.5|2026-10-14T23:00:00+00:00",
+    "event_id": 1493744,
+    "date": "02:00",
+    "kickoff": "2026-10-14T23:00:00+00:00",
+    "home": "Sporting JAX",
+    "away": "Birmingham Legion",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490529|OVER 2.5|2026-10-14T23:30:00+00:00",
+    "event_id": 1490529,
+    "date": "02:30",
+    "kickoff": "2026-10-14T23:30:00+00:00",
+    "home": "Toronto FC",
+    "away": "Orlando City SC",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490535|OVER 2.5|2026-10-15T00:30:00+00:00",
+    "event_id": 1490535,
+    "date": "03:30",
+    "kickoff": "2026-10-15T00:30:00+00:00",
+    "home": "Nashville SC",
+    "away": "Sporting Kansas City",
+    "market": "OVER 2.5",
+    "odds": 1.3,
+    "status": "PENDING"
+  },
+  {
+    "key": "1563200|GG|2026-10-14T18:45:00+00:00",
+    "event_id": 1563200,
+    "date": "21:45",
+    "kickoff": "2026-10-14T18:45:00+00:00",
+    "home": "Norwich",
+    "away": "Southampton",
+    "market": "GG",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1559668|OVER 2.5|2026-10-14T23:00:00+00:00",
+    "event_id": 1559668,
+    "date": "02:00",
+    "kickoff": "2026-10-14T23:00:00+00:00",
+    "home": "Comunicaciones",
+    "away": "Aurora",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1635733|OVER 2.5|2026-10-14T19:00:00+00:00",
+    "event_id": 1635733,
+    "date": "22:00",
+    "kickoff": "2026-10-14T19:00:00+00:00",
+    "home": "Slovan Bratislava",
+    "away": "VfB Stuttgart",
+    "market": "OVER 2.5",
+    "odds": 1.33,
+    "status": "PENDING"
   }
 ]
