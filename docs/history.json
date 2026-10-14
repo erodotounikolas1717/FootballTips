@@ -6569,7 +6569,9 @@
     "away": "Borussia Dortmund",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1493744|OVER 2.5|2026-10-14T23:00:00+00:00",
@@ -6613,7 +6615,9 @@
     "away": "Southampton",
     "market": "GG",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1559668|OVER 2.5|2026-10-14T23:00:00+00:00",
@@ -6635,6 +6639,8 @@
     "away": "VfB Stuttgart",
     "market": "OVER 2.5",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 3.0
   }
 ]
