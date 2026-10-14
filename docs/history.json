@@ -6429,5 +6429,115 @@
     "status": "LOSS",
     "home_score": 4.0,
     "away_score": 0.0
+  },
+  {
+    "key": "1629941|GG|2026-10-14T10:00:00+00:00",
+    "event_id": 1629941,
+    "date": "13:00",
+    "kickoff": "2026-10-14T10:00:00+00:00",
+    "home": "Kashiwa Reysol",
+    "away": "Port FC",
+    "market": "GG",
+    "odds": 2.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496491|GG|2026-10-14T17:00:00+00:00",
+    "event_id": 1496491,
+    "date": "20:00",
+    "kickoff": "2026-10-14T17:00:00+00:00",
+    "home": "Asker",
+    "away": "Frigg",
+    "market": "GG",
+    "odds": 1.35,
+    "status": "PENDING"
+  },
+  {
+    "key": "1569117|GG|2026-10-14T13:00:00+00:00",
+    "event_id": 1569117,
+    "date": "16:00",
+    "kickoff": "2026-10-14T13:00:00+00:00",
+    "home": "Jagiellonia II",
+    "away": "Troszyn",
+    "market": "GG",
+    "odds": 1.43,
+    "status": "PENDING"
+  },
+  {
+    "key": "1569118|GG|2026-10-14T16:00:00+00:00",
+    "event_id": 1569118,
+    "date": "19:00",
+    "kickoff": "2026-10-14T16:00:00+00:00",
+    "home": "ŁKS Łódź II",
+    "away": "Ząbkovia Ząbki",
+    "market": "GG",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1561676|OVER 2.5|2026-10-14T10:00:00+00:00",
+    "event_id": 1561676,
+    "date": "13:00",
+    "kickoff": "2026-10-14T10:00:00+00:00",
+    "home": "Śląsk Wrocław II",
+    "away": "Legia Warszawa II",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1495981|OVER 2.5|2026-10-14T13:00:00+00:00",
+    "event_id": 1495981,
+    "date": "16:00",
+    "kickoff": "2026-10-14T13:00:00+00:00",
+    "home": "Strommen",
+    "away": "Asane",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1495977|OVER 2.5|2026-10-14T17:00:00+00:00",
+    "event_id": 1495977,
+    "date": "20:00",
+    "kickoff": "2026-10-14T17:00:00+00:00",
+    "home": "hodd",
+    "away": "Ranheim",
+    "market": "OVER 2.5",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1568806|OVER 2.5|2026-10-14T10:00:00+00:00",
+    "event_id": 1568806,
+    "date": "13:00",
+    "kickoff": "2026-10-14T10:00:00+00:00",
+    "home": "Lech Poznań II",
+    "away": "Wda Świecie",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1584025|OVER 2.5|2026-10-14T17:00:00+00:00",
+    "event_id": 1584025,
+    "date": "20:00",
+    "kickoff": "2026-10-14T17:00:00+00:00",
+    "home": "Waldhof Mannheim",
+    "away": "FC Ingolstadt 04",
+    "market": "OVER 2.5",
+    "odds": 1.48,
+    "status": "PENDING"
+  },
+  {
+    "key": "1635665|OVER 2.5|2026-10-14T16:45:00+00:00",
+    "event_id": 1635665,
+    "date": "19:45",
+    "kickoff": "2026-10-14T16:45:00+00:00",
+    "home": "Feyenoord",
+    "away": "Como",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
   }
 ]
