@@ -6439,7 +6439,9 @@
     "away": "Port FC",
     "market": "GG",
     "odds": 2.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 5.0,
+    "away_score": 1.0
   },
   {
     "key": "1496491|GG|2026-10-14T17:00:00+00:00",
@@ -6483,7 +6485,9 @@
     "away": "Legia Warszawa II",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1495981|OVER 2.5|2026-10-14T13:00:00+00:00",
@@ -6516,7 +6520,9 @@
     "away": "Wda Świecie",
     "market": "OVER 2.5",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   },
   {
     "key": "1584025|OVER 2.5|2026-10-14T17:00:00+00:00",
