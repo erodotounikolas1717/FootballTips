@@ -6452,7 +6452,9 @@
     "away": "Frigg",
     "market": "GG",
     "odds": 1.35,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1569117|GG|2026-10-14T13:00:00+00:00",
@@ -6515,7 +6517,9 @@
     "away": "Ranheim",
     "market": "OVER 2.5",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1568806|OVER 2.5|2026-10-14T10:00:00+00:00",
@@ -6539,7 +6543,9 @@
     "away": "FC Ingolstadt 04",
     "market": "OVER 2.5",
     "odds": 1.48,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 3.0
   },
   {
     "key": "1635665|OVER 2.5|2026-10-14T16:45:00+00:00",
