@@ -6660,7 +6660,9 @@
     "away": "Home United",
     "market": "GG",
     "odds": 1.6,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1636279|OVER 2.5|2026-10-15T16:45:00+00:00",
@@ -6759,6 +6761,8 @@
     "away": "Satun",
     "market": "OVER 2.5",
     "odds": 1.85,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   }
 ]
