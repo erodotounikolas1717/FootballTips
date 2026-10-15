@@ -6764,5 +6764,27 @@
     "status": "LOSS",
     "home_score": 1.0,
     "away_score": 1.0
+  },
+  {
+    "key": "1636268|OVER 2.5|2026-10-15T19:00:00+00:00",
+    "event_id": 1636268,
+    "date": "22:00",
+    "kickoff": "2026-10-15T19:00:00+00:00",
+    "home": "1899 Hoffenheim",
+    "away": "Beşiktaş",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1606545|OVER 2.5|2026-10-15T14:30:00+00:00",
+    "event_id": 1606545,
+    "date": "17:30",
+    "kickoff": "2026-10-15T14:30:00+00:00",
+    "home": "Al Rayyan SC B",
+    "away": "Al-Khor",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
   }
 ]
