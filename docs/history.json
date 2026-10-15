@@ -6706,7 +6706,9 @@
     "away": "Luunja",
     "market": "OVER 2.5",
     "odds": 1.17,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 3.0
   },
   {
     "key": "1636338|OVER 2.5|2026-10-15T16:45:00+00:00",
@@ -6785,6 +6787,8 @@
     "away": "Al-Khor",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   }
 ]
