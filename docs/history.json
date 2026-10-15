@@ -6646,5 +6646,115 @@
     "status": "WIN",
     "home_score": 0.0,
     "away_score": 3.0
+  },
+  {
+    "key": "1630370|GG|2026-10-15T10:00:00+00:00",
+    "event_id": 1630370,
+    "date": "13:00",
+    "kickoff": "2026-10-15T10:00:00+00:00",
+    "home": "Wofoo Tai Po",
+    "away": "Home United",
+    "market": "GG",
+    "odds": 1.6,
+    "status": "PENDING"
+  },
+  {
+    "key": "1636279|OVER 2.5|2026-10-15T16:45:00+00:00",
+    "event_id": 1636279,
+    "date": "19:45",
+    "kickoff": "2026-10-15T16:45:00+00:00",
+    "home": "Lech Poznan",
+    "away": "Bayer Leverkusen",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1636328|OVER 2.5|2026-10-15T16:45:00+00:00",
+    "event_id": 1636328,
+    "date": "19:45",
+    "kickoff": "2026-10-15T16:45:00+00:00",
+    "home": "Union St. Gilloise",
+    "away": "Real Sociedad",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1636274|OVER 2.5|2026-10-15T19:00:00+00:00",
+    "event_id": 1636274,
+    "date": "22:00",
+    "kickoff": "2026-10-15T19:00:00+00:00",
+    "home": "Jagiellonia",
+    "away": "Ararat-Armenia",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1521707|OVER 2.5|2026-10-15T15:00:00+00:00",
+    "event_id": 1521707,
+    "date": "18:00",
+    "kickoff": "2026-10-15T15:00:00+00:00",
+    "home": "Johvi Phoenix",
+    "away": "Luunja",
+    "market": "OVER 2.5",
+    "odds": 1.17,
+    "status": "PENDING"
+  },
+  {
+    "key": "1636338|OVER 2.5|2026-10-15T16:45:00+00:00",
+    "event_id": 1636338,
+    "date": "19:45",
+    "kickoff": "2026-10-15T16:45:00+00:00",
+    "home": "Sparta Praha",
+    "away": "Lillestrom",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1603044|OVER 2.5|2026-10-15T18:00:00+00:00",
+    "event_id": 1603044,
+    "date": "21:00",
+    "kickoff": "2026-10-15T18:00:00+00:00",
+    "home": "Al-Ahli Jeddah",
+    "away": "Al-Nassr",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1636236|OVER 2.5|2026-10-15T19:00:00+00:00",
+    "event_id": 1636236,
+    "date": "22:00",
+    "kickoff": "2026-10-15T19:00:00+00:00",
+    "home": "Bournemouth",
+    "away": "Sturm Graz",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1612095|OVER 2.5|2026-10-15T22:00:00+00:00",
+    "event_id": 1612095,
+    "date": "01:00",
+    "kickoff": "2026-10-15T22:00:00+00:00",
+    "home": "Central Córdoba SdE Res.",
+    "away": "Belgrano Córdoba Res.",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1602698|OVER 2.5|2026-10-15T11:00:00+00:00",
+    "event_id": 1602698,
+    "date": "14:00",
+    "kickoff": "2026-10-15T11:00:00+00:00",
+    "home": "Uttaradit",
+    "away": "Satun",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
   }
 ]
