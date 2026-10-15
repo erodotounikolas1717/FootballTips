@@ -6673,7 +6673,9 @@
     "away": "Bayer Leverkusen",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 4.0
   },
   {
     "key": "1636328|OVER 2.5|2026-10-15T16:45:00+00:00",
@@ -6684,7 +6686,9 @@
     "away": "Real Sociedad",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1636274|OVER 2.5|2026-10-15T19:00:00+00:00",
@@ -6695,7 +6699,9 @@
     "away": "Ararat-Armenia",
     "market": "OVER 2.5",
     "odds": 1.62,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 1.0
   },
   {
     "key": "1521707|OVER 2.5|2026-10-15T15:00:00+00:00",
@@ -6719,7 +6725,9 @@
     "away": "Lillestrom",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1603044|OVER 2.5|2026-10-15T18:00:00+00:00",
@@ -6741,7 +6749,9 @@
     "away": "Sturm Graz",
     "market": "OVER 2.5",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1612095|OVER 2.5|2026-10-15T22:00:00+00:00",
@@ -6776,7 +6786,9 @@
     "away": "Beşiktaş",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 3.0
   },
   {
     "key": "1606545|OVER 2.5|2026-10-15T14:30:00+00:00",
