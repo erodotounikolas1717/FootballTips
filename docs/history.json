@@ -6582,7 +6582,9 @@
     "away": "Birmingham Legion",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1490529|OVER 2.5|2026-10-14T23:30:00+00:00",
@@ -6628,7 +6630,9 @@
     "away": "Aurora",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1635733|OVER 2.5|2026-10-14T19:00:00+00:00",
