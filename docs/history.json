@@ -6814,7 +6814,9 @@
     "away": "Palm City",
     "market": "GG",
     "odds": 1.55,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 4.0
   },
   {
     "key": "1559802|GG|2026-10-16T16:00:00+00:00",
@@ -6847,7 +6849,9 @@
     "away": "Besa Kavajë",
     "market": "OVER 2.5",
     "odds": 1.95,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1595262|OVER 2.5|2026-10-16T13:00:00+00:00",
@@ -6858,7 +6862,9 @@
     "away": "Uljanik",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 2.0,
+    "away_score": 0.0
   },
   {
     "key": "1556473|OVER 2.5|2026-10-16T16:00:00+00:00",
@@ -6891,7 +6897,9 @@
     "away": "Ismaily SC",
     "market": "GG",
     "odds": 2.1,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 0.0
   },
   {
     "key": "1517366|OVER 2.5|2026-10-16T23:00:00+00:00",
@@ -6913,6 +6921,8 @@
     "away": "Imigresen",
     "market": "OVER 3.5",
     "odds": 11.0,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 5.0
   }
 ]
