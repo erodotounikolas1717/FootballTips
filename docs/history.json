@@ -6804,5 +6804,115 @@
     "status": "WIN",
     "home_score": 1.0,
     "away_score": 4.0
+  },
+  {
+    "key": "1644263|GG|2026-10-16T13:00:00+00:00",
+    "event_id": 1644263,
+    "date": "16:00",
+    "kickoff": "2026-10-16T13:00:00+00:00",
+    "home": "Al Fujairah SC",
+    "away": "Palm City",
+    "market": "GG",
+    "odds": 1.55,
+    "status": "PENDING"
+  },
+  {
+    "key": "1559802|GG|2026-10-16T16:00:00+00:00",
+    "event_id": 1559802,
+    "date": "19:00",
+    "kickoff": "2026-10-16T16:00:00+00:00",
+    "home": "Opava",
+    "away": "Vysočina Jihlava",
+    "market": "GG",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1638631|GG|2026-10-16T19:15:00+00:00",
+    "event_id": 1638631,
+    "date": "22:15",
+    "kickoff": "2026-10-16T19:15:00+00:00",
+    "home": "Breidablik",
+    "away": "Vikingur Reykjavik",
+    "market": "GG",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1628359|OVER 2.5|2026-10-16T11:30:00+00:00",
+    "event_id": 1628359,
+    "date": "14:30",
+    "kickoff": "2026-10-16T11:30:00+00:00",
+    "home": "FK Kukesi",
+    "away": "Besa Kavajë",
+    "market": "OVER 2.5",
+    "odds": 1.95,
+    "status": "PENDING"
+  },
+  {
+    "key": "1595262|OVER 2.5|2026-10-16T13:00:00+00:00",
+    "event_id": 1595262,
+    "date": "16:00",
+    "kickoff": "2026-10-16T13:00:00+00:00",
+    "home": "Grobničan Čavle",
+    "away": "Uljanik",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1556473|OVER 2.5|2026-10-16T16:00:00+00:00",
+    "event_id": 1556473,
+    "date": "19:00",
+    "kickoff": "2026-10-16T16:00:00+00:00",
+    "home": "Kauno Žalgiris II",
+    "away": "Transinvest 2",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1641829|GG|2026-10-16T22:00:00+00:00",
+    "event_id": 1641829,
+    "date": "01:00",
+    "kickoff": "2026-10-16T22:00:00+00:00",
+    "home": "Atlanta United II",
+    "away": "Connecticut FC",
+    "market": "GG",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1594873|GG|2026-10-16T12:30:00+00:00",
+    "event_id": 1594873,
+    "date": "15:30",
+    "kickoff": "2026-10-16T12:30:00+00:00",
+    "home": "El Seka El Hadid",
+    "away": "Ismaily SC",
+    "market": "GG",
+    "odds": 2.1,
+    "status": "PENDING"
+  },
+  {
+    "key": "1517366|OVER 2.5|2026-10-16T23:00:00+00:00",
+    "event_id": 1517366,
+    "date": "02:00",
+    "kickoff": "2026-10-16T23:00:00+00:00",
+    "home": "Supra du Quebec",
+    "away": "York United",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1601140|OVER 3.5|2026-10-16T13:00:00+00:00",
+    "event_id": 1601140,
+    "date": "16:00",
+    "kickoff": "2026-10-16T13:00:00+00:00",
+    "home": "Kelantan Red Warrior FC",
+    "away": "Imigresen",
+    "market": "OVER 3.5",
+    "odds": 11.0,
+    "status": "PENDING"
   }
 ]
