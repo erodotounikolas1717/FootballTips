@@ -6840,7 +6840,9 @@
     "away": "Vikingur Reykjavik",
     "market": "GG",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 2.0
   },
   {
     "key": "1628359|OVER 2.5|2026-10-16T11:30:00+00:00",
@@ -6951,7 +6953,9 @@
     "away": "1. FC Köln",
     "market": "OVER 2.5",
     "odds": 1.33,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1552785|OVER 2.5|2026-10-16T18:45:00+00:00",
@@ -6962,7 +6966,9 @@
     "away": "Toulouse",
     "market": "OVER 2.5",
     "odds": 1.67,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 0.0,
+    "away_score": 3.0
   },
   {
     "key": "1551840|OVER 2.5|2026-10-16T18:00:00+00:00",
@@ -6973,7 +6979,9 @@
     "away": "Jong AZ",
     "market": "OVER 2.5",
     "odds": 1.28,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 4.0
   },
   {
     "key": "1567931|OVER 2.5|2026-10-16T18:30:00+00:00",
@@ -6984,7 +6992,9 @@
     "away": "Austria Salzburg",
     "market": "OVER 2.5",
     "odds": 1.85,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1578714|OVER 3.5|2026-10-16T18:45:00+00:00",
@@ -7019,6 +7029,8 @@
     "away": "Catanzaro",
     "market": "OVER 2.5",
     "odds": 1.73,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   }
 ]
