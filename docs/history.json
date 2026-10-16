@@ -6924,5 +6924,93 @@
     "status": "WIN",
     "home_score": 2.0,
     "away_score": 5.0
+  },
+  {
+    "key": "1551839|GG|2026-10-16T18:00:00+00:00",
+    "event_id": 1551839,
+    "date": "21:00",
+    "kickoff": "2026-10-16T18:00:00+00:00",
+    "home": "Helmond Sport",
+    "away": "NAC Breda",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1575187|OVER 2.5|2026-10-16T18:30:00+00:00",
+    "event_id": 1575187,
+    "date": "21:30",
+    "kickoff": "2026-10-16T18:30:00+00:00",
+    "home": "Eintracht Frankfurt",
+    "away": "1. FC Köln",
+    "market": "OVER 2.5",
+    "odds": 1.33,
+    "status": "PENDING"
+  },
+  {
+    "key": "1552785|OVER 2.5|2026-10-16T18:45:00+00:00",
+    "event_id": 1552785,
+    "date": "21:45",
+    "kickoff": "2026-10-16T18:45:00+00:00",
+    "home": "Le Mans",
+    "away": "Toulouse",
+    "market": "OVER 2.5",
+    "odds": 1.67,
+    "status": "PENDING"
+  },
+  {
+    "key": "1551840|OVER 2.5|2026-10-16T18:00:00+00:00",
+    "event_id": 1551840,
+    "date": "21:00",
+    "kickoff": "2026-10-16T18:00:00+00:00",
+    "home": "VVV Venlo",
+    "away": "Jong AZ",
+    "market": "OVER 2.5",
+    "odds": 1.28,
+    "status": "PENDING"
+  },
+  {
+    "key": "1567931|OVER 2.5|2026-10-16T18:30:00+00:00",
+    "event_id": 1567931,
+    "date": "21:30",
+    "kickoff": "2026-10-16T18:30:00+00:00",
+    "home": "Wacker Innsbruck",
+    "away": "Austria Salzburg",
+    "market": "OVER 2.5",
+    "odds": 1.85,
+    "status": "PENDING"
+  },
+  {
+    "key": "1578714|OVER 3.5|2026-10-16T18:45:00+00:00",
+    "event_id": 1578714,
+    "date": "21:45",
+    "kickoff": "2026-10-16T18:45:00+00:00",
+    "home": "Celtic II",
+    "away": "Caledonian Braves",
+    "market": "OVER 3.5",
+    "odds": 5.0,
+    "status": "PENDING"
+  },
+  {
+    "key": "1560257|OVER 2.5|2026-10-16T18:00:00+00:00",
+    "event_id": 1560257,
+    "date": "21:00",
+    "kickoff": "2026-10-16T18:00:00+00:00",
+    "home": "MTK Budapest",
+    "away": "Vasas",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1601562|OVER 2.5|2026-10-16T18:30:00+00:00",
+    "event_id": 1601562,
+    "date": "21:30",
+    "kickoff": "2026-10-16T18:30:00+00:00",
+    "home": "Hellas Verona",
+    "away": "Catanzaro",
+    "market": "OVER 2.5",
+    "odds": 1.73,
+    "status": "PENDING"
   }
 ]
