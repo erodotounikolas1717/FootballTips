@@ -7158,5 +7158,93 @@
     "market": "OVER 2.5",
     "odds": 1.3,
     "status": "PENDING"
+  },
+  {
+    "key": "1490541|OVER 2.5|2026-10-17T18:30:00+00:00",
+    "event_id": 1490541,
+    "date": "21:30",
+    "kickoff": "2026-10-17T18:30:00+00:00",
+    "home": "Philadelphia Union",
+    "away": "Charlotte",
+    "market": "OVER 2.5",
+    "odds": 1.25,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490542|OVER 2.5|2026-10-17T20:30:00+00:00",
+    "event_id": 1490542,
+    "date": "23:30",
+    "kickoff": "2026-10-17T20:30:00+00:00",
+    "home": "Minnesota United FC",
+    "away": "St. Louis City",
+    "market": "OVER 2.5",
+    "odds": 1.5,
+    "status": "PENDING"
+  },
+  {
+    "key": "1579980|OVER 2.5|2026-10-17T18:00:00+00:00",
+    "event_id": 1579980,
+    "date": "21:00",
+    "kickoff": "2026-10-17T18:00:00+00:00",
+    "home": "Lyra-Lierse Berlaar",
+    "away": "Houtvenne",
+    "market": "OVER 2.5",
+    "odds": 1.57,
+    "status": "PENDING"
+  },
+  {
+    "key": "1553191|GG|2026-10-17T18:15:00+00:00",
+    "event_id": 1553191,
+    "date": "21:15",
+    "kickoff": "2026-10-17T18:15:00+00:00",
+    "home": "Cracovia Krakow",
+    "away": "Legia Warszawa",
+    "market": "GG",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1492411|OVER 2.5|2026-10-17T21:30:00+00:00",
+    "event_id": 1492411,
+    "date": "00:30",
+    "kickoff": "2026-10-17T21:30:00+00:00",
+    "home": "Atletico-MG",
+    "away": "Coritiba",
+    "market": "OVER 2.5",
+    "odds": 1.8,
+    "status": "PENDING"
+  },
+  {
+    "key": "1550999|OVER 2.5|2026-10-18T01:00:00+00:00",
+    "event_id": 1550999,
+    "date": "04:00",
+    "kickoff": "2026-10-18T01:00:00+00:00",
+    "home": "Toluca",
+    "away": "Atletico San Luis",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1552193|OVER 2.5|2026-10-17T19:00:00+00:00",
+    "event_id": 1552193,
+    "date": "22:00",
+    "kickoff": "2026-10-17T19:00:00+00:00",
+    "home": "Sparta Rotterdam",
+    "away": "Willem II",
+    "market": "OVER 2.5",
+    "odds": 1.48,
+    "status": "PENDING"
+  },
+  {
+    "key": "1581451|GG|2026-10-18T01:00:00+00:00",
+    "event_id": 1581451,
+    "date": "04:00",
+    "kickoff": "2026-10-18T01:00:00+00:00",
+    "home": "Cancún",
+    "away": "Venados FC",
+    "market": "GG",
+    "odds": 1.5,
+    "status": "PENDING"
   }
 ]
