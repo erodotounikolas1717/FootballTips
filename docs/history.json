@@ -7174,7 +7174,9 @@
     "away": "Charlotte",
     "market": "OVER 2.5",
     "odds": 1.25,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 2.0,
+    "away_score": 2.0
   },
   {
     "key": "1490542|OVER 2.5|2026-10-17T20:30:00+00:00",
@@ -7196,7 +7198,9 @@
     "away": "Houtvenne",
     "market": "OVER 2.5",
     "odds": 1.57,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1553191|GG|2026-10-17T18:15:00+00:00",
@@ -7207,7 +7211,9 @@
     "away": "Legia Warszawa",
     "market": "GG",
     "odds": 1.7,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1492411|OVER 2.5|2026-10-17T21:30:00+00:00",
@@ -7240,7 +7246,9 @@
     "away": "Willem II",
     "market": "OVER 2.5",
     "odds": 1.48,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 2.0
   },
   {
     "key": "1581451|GG|2026-10-18T01:00:00+00:00",
