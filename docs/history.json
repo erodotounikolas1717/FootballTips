@@ -7048,7 +7048,9 @@
     "away": "Aalesund",
     "market": "OVER 2.5",
     "odds": 1.53,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 4.0
   },
   {
     "key": "1490547|OVER 2.5|2026-10-17T23:30:00+00:00",
@@ -7135,7 +7137,9 @@
     "away": "FC Augsburg",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 3.0
   },
   {
     "key": "1496906|OVER 2.5|2026-10-17T14:00:00+00:00",
@@ -7146,7 +7150,9 @@
     "away": "Fyllingsdalen",
     "market": "OVER 2.5",
     "odds": 1.07,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1490546|OVER 2.5|2026-10-17T23:30:00+00:00",
