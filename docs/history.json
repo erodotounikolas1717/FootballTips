@@ -6892,7 +6892,9 @@
     "away": "Connecticut FC",
     "market": "GG",
     "odds": 1.36,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1594873|GG|2026-10-16T12:30:00+00:00",
@@ -6916,7 +6918,9 @@
     "away": "York United",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 3.0,
+    "away_score": 0.0
   },
   {
     "key": "1601140|OVER 3.5|2026-10-16T13:00:00+00:00",
@@ -7005,7 +7009,9 @@
     "away": "Caledonian Braves",
     "market": "OVER 3.5",
     "odds": 5.0,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 0.0,
+    "away_score": 1.0
   },
   {
     "key": "1560257|OVER 2.5|2026-10-16T18:00:00+00:00",
