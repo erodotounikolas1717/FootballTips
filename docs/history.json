@@ -7038,5 +7038,115 @@
     "status": "WIN",
     "home_score": 2.0,
     "away_score": 2.0
+  },
+  {
+    "key": "1494781|OVER 2.5|2026-10-17T14:00:00+00:00",
+    "event_id": 1494781,
+    "date": "17:00",
+    "kickoff": "2026-10-17T14:00:00+00:00",
+    "home": "Kristiansund BK",
+    "away": "Aalesund",
+    "market": "OVER 2.5",
+    "odds": 1.53,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490547|OVER 2.5|2026-10-17T23:30:00+00:00",
+    "event_id": 1490547,
+    "date": "02:30",
+    "kickoff": "2026-10-17T23:30:00+00:00",
+    "home": "New England Revolution",
+    "away": "Chicago Fire",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496907|OVER 2.5|2026-10-17T10:30:00+00:00",
+    "event_id": 1496907,
+    "date": "13:30",
+    "kickoff": "2026-10-17T10:30:00+00:00",
+    "home": "Førde",
+    "away": "Djerv",
+    "market": "OVER 2.5",
+    "odds": 3.1,
+    "status": "PENDING"
+  },
+  {
+    "key": "1510884|OVER 2.5|2026-10-17T10:30:00+00:00",
+    "event_id": 1510884,
+    "date": "13:30",
+    "kickoff": "2026-10-17T10:30:00+00:00",
+    "home": "Lidingö",
+    "away": "Franke",
+    "market": "OVER 2.5",
+    "odds": 1.36,
+    "status": "PENDING"
+  },
+  {
+    "key": "1577804|OVER 2.5|2026-10-17T11:00:00+00:00",
+    "event_id": 1577804,
+    "date": "14:00",
+    "kickoff": "2026-10-17T11:00:00+00:00",
+    "home": "Holbæk B&I",
+    "away": "Holstebro",
+    "market": "OVER 2.5",
+    "odds": 1.4,
+    "status": "PENDING"
+  },
+  {
+    "key": "1577805|OVER 2.5|2026-10-17T11:00:00+00:00",
+    "event_id": 1577805,
+    "date": "14:00",
+    "kickoff": "2026-10-17T11:00:00+00:00",
+    "home": "Ishøj",
+    "away": "FC Helsingor",
+    "market": "OVER 2.5",
+    "odds": 1.62,
+    "status": "PENDING"
+  },
+  {
+    "key": "1591648|OVER 2.5|2026-10-17T11:00:00+00:00",
+    "event_id": 1591648,
+    "date": "14:00",
+    "kickoff": "2026-10-17T11:00:00+00:00",
+    "home": "1461 Trabzon FK",
+    "away": "İnegölspor",
+    "market": "OVER 2.5",
+    "odds": 1.7,
+    "status": "PENDING"
+  },
+  {
+    "key": "1575193|OVER 2.5|2026-10-17T13:30:00+00:00",
+    "event_id": 1575193,
+    "date": "16:30",
+    "kickoff": "2026-10-17T13:30:00+00:00",
+    "home": "SV Elversberg",
+    "away": "FC Augsburg",
+    "market": "OVER 2.5",
+    "odds": 1.44,
+    "status": "PENDING"
+  },
+  {
+    "key": "1496906|OVER 2.5|2026-10-17T14:00:00+00:00",
+    "event_id": 1496906,
+    "date": "17:00",
+    "kickoff": "2026-10-17T14:00:00+00:00",
+    "home": "Fana",
+    "away": "Fyllingsdalen",
+    "market": "OVER 2.5",
+    "odds": 1.07,
+    "status": "PENDING"
+  },
+  {
+    "key": "1490546|OVER 2.5|2026-10-17T23:30:00+00:00",
+    "event_id": 1490546,
+    "date": "02:30",
+    "kickoff": "2026-10-17T23:30:00+00:00",
+    "home": "Orlando City SC",
+    "away": "DC United",
+    "market": "OVER 2.5",
+    "odds": 1.3,
+    "status": "PENDING"
   }
 ]
