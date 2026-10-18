@@ -7061,7 +7061,9 @@
     "away": "Chicago Fire",
     "market": "OVER 2.5",
     "odds": 1.44,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 0.0
   },
   {
     "key": "1496907|OVER 2.5|2026-10-17T10:30:00+00:00",
@@ -7163,7 +7165,9 @@
     "away": "DC United",
     "market": "OVER 2.5",
     "odds": 1.3,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 4.0,
+    "away_score": 1.0
   },
   {
     "key": "1490541|OVER 2.5|2026-10-17T18:30:00+00:00",
@@ -7239,7 +7243,9 @@
     "away": "Atletico San Luis",
     "market": "OVER 2.5",
     "odds": 1.4,
-    "status": "PENDING"
+    "status": "LOSS",
+    "home_score": 1.0,
+    "away_score": 1.0
   },
   {
     "key": "1552193|OVER 2.5|2026-10-17T19:00:00+00:00",
@@ -7263,6 +7269,8 @@
     "away": "Venados FC",
     "market": "GG",
     "odds": 1.5,
-    "status": "PENDING"
+    "status": "WIN",
+    "home_score": 1.0,
+    "away_score": 1.0
   }
 ]
